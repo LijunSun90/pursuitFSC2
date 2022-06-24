@@ -1,0 +1,12 @@
+Experiment ID: 0 Folder: ./results/sos_Actor-Critic-P/sos_actor_critic_p_s8
+Experiment ID: 1 Folder: ./results/sos_Actor-Critic-P/sos_actor_critic_p_s6
+Experiment ID: 2 Folder: ./results/sos_Actor-Critic-P/sos_actor_critic_p_s1
+Experiment ID: 3 Folder: ./results/sos_Actor-Critic-P/sos_actor_critic_p_s0
+Experiment ID: 4 Folder: ./results/sos_Actor-Critic-P/sos_actor_critic_p_s7
+Experiment ID: 5 Folder: ./results/sos_Actor-Critic-P/sos_actor_critic_p_s9
+Experiment ID: 6 Folder: ./results/sos_Actor-Critic-P/sos_actor_critic_p_s2
+Experiment ID: 7 Folder: ./results/sos_Actor-Critic-P/sos_actor_critic_p_s5
+Experiment ID: 8 Folder: ./results/sos_Actor-Critic-P/sos_actor_critic_p_s4
+Experiment ID: 9 Folder: ./results/sos_Actor-Critic-P/sos_actor_critic_p_s3
+
+Best: experiment , random seed 3, 5.

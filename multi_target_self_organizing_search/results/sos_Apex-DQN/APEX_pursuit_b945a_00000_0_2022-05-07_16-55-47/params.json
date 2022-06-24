@@ -1,0 +1,53 @@
+{
+  "adam_epsilon": 0.00015,
+  "buffer_size": 100000,
+  "callbacks": "<class 'apex_dqn.custom_callbacks.CustomPursuitCallbacks'>",
+  "compress_observations": false,
+  "double_q": true,
+  "dueling": true,
+  "env": "pursuit",
+  "env_config": {
+    "n_pursuers": 8,
+    "n_targets": 50
+  },
+  "exploration_config": {
+    "epsilon_timesteps": 200000,
+    "final_epsilon": 0.01
+  },
+  "final_prioritized_replay_beta": 1.0,
+  "gamma": 0.99,
+  "learning_starts": 80000,
+  "log_level": "INFO",
+  "lr": 1e-05,
+  "multiagent": {
+    "policies": {
+      "policy_0": [
+        null,
+        "Box(0.0, 50.0, (363,), float32)",
+        "Discrete(5)",
+        {
+          "gamma": 0.99,
+          "model": {
+            "custom_model": "MLPModel"
+          }
+        }
+      ]
+    },
+    "policy_mapping_fn": "<function train.<locals>.<lambda> at 0x2ae831fd2320>"
+  },
+  "n_step": 3,
+  "noisy": false,
+  "num_atoms": 1,
+  "num_envs_per_worker": 8,
+  "num_gpus": 1,
+  "num_workers": 8,
+  "prioritized_replay": true,
+  "prioritized_replay_alpha": 0.5,
+  "prioritized_replay_beta": 0.4,
+  "prioritized_replay_beta_annealing_timesteps": 2000000,
+  "rollout_fragment_length": 32,
+  "seed": 10008,
+  "target_network_update_freq": 50000,
+  "timesteps_per_iteration": 25000,
+  "train_batch_size": 1024
+}

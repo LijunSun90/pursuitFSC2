@@ -1,0 +1,2 @@
+UseSeed	NEpisodes	AverageEpRet	StdEpRet	MaxEpRet	MinEpRet	AverageEpLen	StdEpLen	MaxEpLen	MinEpLen	AverageCaptureRate	StdCaptureRate	MaxCaptureRate	MinCaptureRate	AverageCollisions	StdCollisions	MaxCollisions	MinCollisions	AverageCollideObstacles	StdCollideObstacles	MaxCollideObstacles	MinCollideObstacles
+True	100	57.965504	7.203189	59.95	2.15	38.34	7.741085	86.0	26.0	1.0	0.0	1.0	1.0	0.52	2.7585502	22.0	0.0	0.19	0.44034076	2.0	0.0

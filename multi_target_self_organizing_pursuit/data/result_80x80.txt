@@ -1,0 +1,1740 @@
+(myenv37) > $                                                                  
+                                                                                
+lijunsun@LJS-MacBook-Pro ~/Workspace/multiple_preys_pursuit_pomg     [13:19:58]
+(myenv37) > $ python test_sop_statistical_results.py                           
+Command: python run_sop.py  --x_size=80 --y_size=80 --n_pursuers=4 --n_targets=1 --n_episodes=100
+Seed   0 	 Episode   0 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 2.599
+Seed   1 	 Episode   1 	 EpLen 156 	 CaptureRate 1.000 	 Collisions 0 Time 0.895
+Seed   2 	 Episode   2 	 EpLen 289 	 CaptureRate 1.000 	 Collisions 0 Time 1.639
+Seed   3 	 Episode   3 	 EpLen 202 	 CaptureRate 1.000 	 Collisions 0 Time 0.966
+Seed   4 	 Episode   4 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 2.750
+Seed   5 	 Episode   5 	 EpLen 393 	 CaptureRate 1.000 	 Collisions 0 Time 1.801
+Seed   6 	 Episode   6 	 EpLen 140 	 CaptureRate 1.000 	 Collisions 0 Time 0.762
+Seed   7 	 Episode   7 	 EpLen 317 	 CaptureRate 1.000 	 Collisions 0 Time 1.790
+Seed   8 	 Episode   8 	 EpLen 161 	 CaptureRate 1.000 	 Collisions 0 Time 1.091
+Seed   9 	 Episode   9 	 EpLen 49 	 CaptureRate 1.000 	 Collisions 0 Time 0.321
+Seed  10 	 Episode  10 	 EpLen 244 	 CaptureRate 1.000 	 Collisions 0 Time 1.085
+Seed  11 	 Episode  11 	 EpLen 246 	 CaptureRate 1.000 	 Collisions 0 Time 1.133
+Seed  12 	 Episode  12 	 EpLen 145 	 CaptureRate 1.000 	 Collisions 0 Time 0.827
+Seed  13 	 Episode  13 	 EpLen 101 	 CaptureRate 1.000 	 Collisions 0 Time 0.825
+Seed  14 	 Episode  14 	 EpLen 394 	 CaptureRate 1.000 	 Collisions 0 Time 2.161
+Seed  15 	 Episode  15 	 EpLen 232 	 CaptureRate 1.000 	 Collisions 0 Time 1.195
+Seed  16 	 Episode  16 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 1.801
+Seed  17 	 Episode  17 	 EpLen 226 	 CaptureRate 1.000 	 Collisions 0 Time 1.579
+Seed  18 	 Episode  18 	 EpLen 435 	 CaptureRate 1.000 	 Collisions 0 Time 2.869
+Seed  19 	 Episode  19 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 2.230
+Seed  20 	 Episode  20 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 1.708
+Seed  21 	 Episode  21 	 EpLen 151 	 CaptureRate 1.000 	 Collisions 0 Time 0.840
+Seed  22 	 Episode  22 	 EpLen 387 	 CaptureRate 1.000 	 Collisions 0 Time 2.214
+Seed  23 	 Episode  23 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 1.763
+Seed  24 	 Episode  24 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 1.677
+Seed  25 	 Episode  25 	 EpLen 85 	 CaptureRate 1.000 	 Collisions 0 Time 0.609
+Seed  26 	 Episode  26 	 EpLen 188 	 CaptureRate 1.000 	 Collisions 0 Time 1.119
+Seed  27 	 Episode  27 	 EpLen 353 	 CaptureRate 1.000 	 Collisions 0 Time 2.371
+Seed  28 	 Episode  28 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 2.841
+Seed  29 	 Episode  29 	 EpLen 328 	 CaptureRate 1.000 	 Collisions 0 Time 1.777
+Seed  30 	 Episode  30 	 EpLen 232 	 CaptureRate 1.000 	 Collisions 0 Time 1.441
+Seed  31 	 Episode  31 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 2.079
+Seed  32 	 Episode  32 	 EpLen 327 	 CaptureRate 1.000 	 Collisions 0 Time 1.951
+Seed  33 	 Episode  33 	 EpLen 238 	 CaptureRate 1.000 	 Collisions 0 Time 1.571
+Seed  34 	 Episode  34 	 EpLen 91 	 CaptureRate 1.000 	 Collisions 0 Time 0.711
+Seed  35 	 Episode  35 	 EpLen 380 	 CaptureRate 1.000 	 Collisions 0 Time 2.410
+Seed  36 	 Episode  36 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 1.954
+Seed  37 	 Episode  37 	 EpLen 386 	 CaptureRate 1.000 	 Collisions 0 Time 2.392
+Seed  38 	 Episode  38 	 EpLen 476 	 CaptureRate 1.000 	 Collisions 0 Time 3.030
+Seed  39 	 Episode  39 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 1.962
+Seed  40 	 Episode  40 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 1.836
+Seed  41 	 Episode  41 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 2.598
+Seed  42 	 Episode  42 	 EpLen 366 	 CaptureRate 1.000 	 Collisions 0 Time 2.588
+Seed  43 	 Episode  43 	 EpLen 277 	 CaptureRate 1.000 	 Collisions 0 Time 1.802
+Seed  44 	 Episode  44 	 EpLen 294 	 CaptureRate 1.000 	 Collisions 0 Time 1.358
+Seed  45 	 Episode  45 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 2.795
+Seed  46 	 Episode  46 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 1.592
+Seed  47 	 Episode  47 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 2.167
+Seed  48 	 Episode  48 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 2.005
+Seed  49 	 Episode  49 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 2.118
+Seed  50 	 Episode  50 	 EpLen 312 	 CaptureRate 1.000 	 Collisions 0 Time 1.864
+Seed  51 	 Episode  51 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 1.815
+Seed  52 	 Episode  52 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 2.783
+Seed  53 	 Episode  53 	 EpLen 193 	 CaptureRate 1.000 	 Collisions 0 Time 0.976
+Seed  54 	 Episode  54 	 EpLen 432 	 CaptureRate 1.000 	 Collisions 0 Time 2.313
+Seed  55 	 Episode  55 	 EpLen 319 	 CaptureRate 1.000 	 Collisions 0 Time 1.476
+Seed  56 	 Episode  56 	 EpLen 342 	 CaptureRate 1.000 	 Collisions 0 Time 1.958
+Seed  57 	 Episode  57 	 EpLen 468 	 CaptureRate 1.000 	 Collisions 0 Time 1.591
+Seed  58 	 Episode  58 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 1.945
+Seed  59 	 Episode  59 	 EpLen 327 	 CaptureRate 1.000 	 Collisions 0 Time 1.966
+Seed  60 	 Episode  60 	 EpLen 219 	 CaptureRate 1.000 	 Collisions 0 Time 0.872
+Seed  61 	 Episode  61 	 EpLen 186 	 CaptureRate 1.000 	 Collisions 0 Time 1.081
+Seed  62 	 Episode  62 	 EpLen 143 	 CaptureRate 1.000 	 Collisions 0 Time 0.791
+Seed  63 	 Episode  63 	 EpLen 238 	 CaptureRate 1.000 	 Collisions 0 Time 1.190
+Seed  64 	 Episode  64 	 EpLen 293 	 CaptureRate 1.000 	 Collisions 0 Time 1.267
+Seed  65 	 Episode  65 	 EpLen 251 	 CaptureRate 1.000 	 Collisions 0 Time 1.216
+Seed  66 	 Episode  66 	 EpLen 223 	 CaptureRate 1.000 	 Collisions 0 Time 1.031
+Seed  67 	 Episode  67 	 EpLen 146 	 CaptureRate 1.000 	 Collisions 0 Time 0.592
+Seed  68 	 Episode  68 	 EpLen 158 	 CaptureRate 1.000 	 Collisions 0 Time 0.965
+Seed  69 	 Episode  69 	 EpLen 235 	 CaptureRate 1.000 	 Collisions 0 Time 0.843
+Seed  70 	 Episode  70 	 EpLen 163 	 CaptureRate 1.000 	 Collisions 0 Time 1.142
+Seed  71 	 Episode  71 	 EpLen 228 	 CaptureRate 1.000 	 Collisions 0 Time 1.224
+Seed  72 	 Episode  72 	 EpLen 86 	 CaptureRate 1.000 	 Collisions 0 Time 0.372
+Seed  73 	 Episode  73 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 2.514
+Seed  74 	 Episode  74 	 EpLen 223 	 CaptureRate 1.000 	 Collisions 0 Time 1.662
+Seed  75 	 Episode  75 	 EpLen 203 	 CaptureRate 1.000 	 Collisions 0 Time 1.129
+Seed  76 	 Episode  76 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 1.963
+Seed  77 	 Episode  77 	 EpLen 150 	 CaptureRate 1.000 	 Collisions 0 Time 0.912
+Seed  78 	 Episode  78 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 1.577
+Seed  79 	 Episode  79 	 EpLen 175 	 CaptureRate 1.000 	 Collisions 0 Time 0.775
+Seed  80 	 Episode  80 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 1.549
+Seed  81 	 Episode  81 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 1.559
+Seed  82 	 Episode  82 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 1.710
+Seed  83 	 Episode  83 	 EpLen 221 	 CaptureRate 1.000 	 Collisions 0 Time 1.289
+Seed  84 	 Episode  84 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 2.120
+Seed  85 	 Episode  85 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 1.558
+Seed  86 	 Episode  86 	 EpLen 91 	 CaptureRate 1.000 	 Collisions 0 Time 0.390
+Seed  87 	 Episode  87 	 EpLen 189 	 CaptureRate 1.000 	 Collisions 0 Time 1.051
+Seed  88 	 Episode  88 	 EpLen 189 	 CaptureRate 1.000 	 Collisions 0 Time 1.080
+Seed  89 	 Episode  89 	 EpLen 311 	 CaptureRate 1.000 	 Collisions 0 Time 1.604
+Seed  90 	 Episode  90 	 EpLen 158 	 CaptureRate 1.000 	 Collisions 0 Time 0.910
+Seed  91 	 Episode  91 	 EpLen 371 	 CaptureRate 1.000 	 Collisions 0 Time 1.705
+Seed  92 	 Episode  92 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 1.553
+Seed  93 	 Episode  93 	 EpLen 175 	 CaptureRate 1.000 	 Collisions 0 Time 0.836
+Seed  94 	 Episode  94 	 EpLen 416 	 CaptureRate 1.000 	 Collisions 0 Time 2.039
+Seed  95 	 Episode  95 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 2.321
+Seed  96 	 Episode  96 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 1.588
+Seed  97 	 Episode  97 	 EpLen 151 	 CaptureRate 1.000 	 Collisions 0 Time 0.897
+Seed  98 	 Episode  98 	 EpLen 431 	 CaptureRate 1.000 	 Collisions 0 Time 2.382
+Seed  99 	 Episode  99 	 EpLen 92 	 CaptureRate 1.000 	 Collisions 0 Time 0.465
+Write to file: data/sop_80_80_4_1_.txt
+Write to file: data/sop_80_80_4_1_statistical_result.txt
+Command: python run_sop.py  --x_size=80 --y_size=80 --n_pursuers=8 --n_targets=2 --n_episodes=100
+Seed   0 	 Episode   0 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 4.013
+Seed   1 	 Episode   1 	 EpLen 91 	 CaptureRate 1.000 	 Collisions 0 Time 0.945
+Seed   2 	 Episode   2 	 EpLen 249 	 CaptureRate 1.000 	 Collisions 0 Time 2.169
+Seed   3 	 Episode   3 	 EpLen 195 	 CaptureRate 1.000 	 Collisions 0 Time 2.031
+Seed   4 	 Episode   4 	 EpLen 120 	 CaptureRate 1.000 	 Collisions 0 Time 1.722
+Seed   5 	 Episode   5 	 EpLen 333 	 CaptureRate 1.000 	 Collisions 0 Time 2.852
+Seed   6 	 Episode   6 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 3.399
+Seed   7 	 Episode   7 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.908
+Seed   8 	 Episode   8 	 EpLen 107 	 CaptureRate 1.000 	 Collisions 0 Time 1.495
+Seed   9 	 Episode   9 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.015
+Seed  10 	 Episode  10 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.122
+Seed  11 	 Episode  11 	 EpLen 273 	 CaptureRate 1.000 	 Collisions 0 Time 2.560
+Seed  12 	 Episode  12 	 EpLen 109 	 CaptureRate 1.000 	 Collisions 0 Time 1.226
+Seed  13 	 Episode  13 	 EpLen 321 	 CaptureRate 1.000 	 Collisions 0 Time 2.589
+Seed  14 	 Episode  14 	 EpLen 148 	 CaptureRate 1.000 	 Collisions 0 Time 1.603
+Seed  15 	 Episode  15 	 EpLen 191 	 CaptureRate 1.000 	 Collisions 0 Time 2.119
+Seed  16 	 Episode  16 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 5.244
+Seed  17 	 Episode  17 	 EpLen 296 	 CaptureRate 1.000 	 Collisions 0 Time 3.379
+Seed  18 	 Episode  18 	 EpLen 294 	 CaptureRate 1.000 	 Collisions 0 Time 3.270
+Seed  19 	 Episode  19 	 EpLen 150 	 CaptureRate 1.000 	 Collisions 0 Time 1.827
+Seed  20 	 Episode  20 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 5.985
+Seed  21 	 Episode  21 	 EpLen 110 	 CaptureRate 1.000 	 Collisions 0 Time 1.402
+Seed  22 	 Episode  22 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 3.677
+Seed  23 	 Episode  23 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 5.178
+Seed  24 	 Episode  24 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.556
+Seed  25 	 Episode  25 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 5.155
+Seed  26 	 Episode  26 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.591
+Seed  27 	 Episode  27 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.292
+Seed  28 	 Episode  28 	 EpLen 425 	 CaptureRate 1.000 	 Collisions 0 Time 3.156
+Seed  29 	 Episode  29 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.001
+Seed  30 	 Episode  30 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 5.222
+Seed  31 	 Episode  31 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 3.995
+Seed  32 	 Episode  32 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 4.953
+Seed  33 	 Episode  33 	 EpLen 188 	 CaptureRate 1.000 	 Collisions 0 Time 1.716
+Seed  34 	 Episode  34 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 5.029
+Seed  35 	 Episode  35 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.081
+Seed  36 	 Episode  36 	 EpLen 129 	 CaptureRate 1.000 	 Collisions 0 Time 1.687
+Seed  37 	 Episode  37 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 3.334
+Seed  38 	 Episode  38 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 5.939
+Seed  39 	 Episode  39 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.982
+Seed  40 	 Episode  40 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 3.723
+Seed  41 	 Episode  41 	 EpLen 316 	 CaptureRate 1.000 	 Collisions 0 Time 2.694
+Seed  42 	 Episode  42 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.132
+Seed  43 	 Episode  43 	 EpLen 486 	 CaptureRate 1.000 	 Collisions 0 Time 4.366
+Seed  44 	 Episode  44 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.430
+Seed  45 	 Episode  45 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.047
+Seed  46 	 Episode  46 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.437
+Seed  47 	 Episode  47 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 4.977
+Seed  48 	 Episode  48 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 3.751
+Seed  49 	 Episode  49 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 3.171
+Seed  50 	 Episode  50 	 EpLen 421 	 CaptureRate 1.000 	 Collisions 0 Time 3.416
+Seed  51 	 Episode  51 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 3.681
+Seed  52 	 Episode  52 	 EpLen 195 	 CaptureRate 1.000 	 Collisions 0 Time 2.188
+Seed  53 	 Episode  53 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 3.596
+Seed  54 	 Episode  54 	 EpLen 297 	 CaptureRate 1.000 	 Collisions 0 Time 2.320
+Seed  55 	 Episode  55 	 EpLen 318 	 CaptureRate 1.000 	 Collisions 0 Time 3.533
+Seed  56 	 Episode  56 	 EpLen 201 	 CaptureRate 1.000 	 Collisions 0 Time 1.640
+Seed  57 	 Episode  57 	 EpLen 318 	 CaptureRate 1.000 	 Collisions 0 Time 2.957
+Seed  58 	 Episode  58 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 3.413
+Seed  59 	 Episode  59 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.661
+Seed  60 	 Episode  60 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.205
+Seed  61 	 Episode  61 	 EpLen 213 	 CaptureRate 1.000 	 Collisions 0 Time 2.781
+Seed  62 	 Episode  62 	 EpLen 278 	 CaptureRate 1.000 	 Collisions 0 Time 2.935
+Seed  63 	 Episode  63 	 EpLen 233 	 CaptureRate 1.000 	 Collisions 0 Time 2.576
+Seed  64 	 Episode  64 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 4.282
+Seed  65 	 Episode  65 	 EpLen 431 	 CaptureRate 1.000 	 Collisions 0 Time 3.732
+Seed  66 	 Episode  66 	 EpLen 239 	 CaptureRate 1.000 	 Collisions 0 Time 2.661
+Seed  67 	 Episode  67 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.506
+Seed  68 	 Episode  68 	 EpLen 213 	 CaptureRate 1.000 	 Collisions 0 Time 2.657
+Seed  69 	 Episode  69 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 3.869
+Seed  70 	 Episode  70 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 5.427
+Seed  71 	 Episode  71 	 EpLen 346 	 CaptureRate 1.000 	 Collisions 0 Time 3.526
+Seed  72 	 Episode  72 	 EpLen 124 	 CaptureRate 1.000 	 Collisions 0 Time 1.242
+Seed  73 	 Episode  73 	 EpLen 358 	 CaptureRate 1.000 	 Collisions 0 Time 3.344
+Seed  74 	 Episode  74 	 EpLen 305 	 CaptureRate 1.000 	 Collisions 0 Time 3.123
+Seed  75 	 Episode  75 	 EpLen 279 	 CaptureRate 1.000 	 Collisions 0 Time 2.984
+Seed  76 	 Episode  76 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.033
+Seed  77 	 Episode  77 	 EpLen 230 	 CaptureRate 1.000 	 Collisions 0 Time 2.763
+Seed  78 	 Episode  78 	 EpLen 461 	 CaptureRate 1.000 	 Collisions 0 Time 4.948
+Seed  79 	 Episode  79 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 5.156
+Seed  80 	 Episode  80 	 EpLen 500 	 CaptureRate 0.000 	 Collisions 0 Time 3.175
+Seed  81 	 Episode  81 	 EpLen 187 	 CaptureRate 1.000 	 Collisions 0 Time 1.786
+Seed  82 	 Episode  82 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 3.831
+Seed  83 	 Episode  83 	 EpLen 101 	 CaptureRate 1.000 	 Collisions 0 Time 1.732
+Seed  84 	 Episode  84 	 EpLen 165 	 CaptureRate 1.000 	 Collisions 0 Time 1.791
+Seed  85 	 Episode  85 	 EpLen 397 	 CaptureRate 1.000 	 Collisions 0 Time 3.411
+Seed  86 	 Episode  86 	 EpLen 215 	 CaptureRate 1.000 	 Collisions 0 Time 2.434
+Seed  87 	 Episode  87 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.347
+Seed  88 	 Episode  88 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 3.332
+Seed  89 	 Episode  89 	 EpLen 290 	 CaptureRate 1.000 	 Collisions 0 Time 2.866
+Seed  90 	 Episode  90 	 EpLen 275 	 CaptureRate 1.000 	 Collisions 0 Time 2.628
+Seed  91 	 Episode  91 	 EpLen 416 	 CaptureRate 1.000 	 Collisions 0 Time 4.216
+Seed  92 	 Episode  92 	 EpLen 130 	 CaptureRate 1.000 	 Collisions 0 Time 1.624
+Seed  93 	 Episode  93 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.164
+Seed  94 	 Episode  94 	 EpLen 186 	 CaptureRate 1.000 	 Collisions 0 Time 1.972
+Seed  95 	 Episode  95 	 EpLen 476 	 CaptureRate 1.000 	 Collisions 0 Time 3.567
+Seed  96 	 Episode  96 	 EpLen 209 	 CaptureRate 1.000 	 Collisions 0 Time 2.874
+Seed  97 	 Episode  97 	 EpLen 328 	 CaptureRate 1.000 	 Collisions 0 Time 3.158
+Seed  98 	 Episode  98 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 4.831
+Seed  99 	 Episode  99 	 EpLen 209 	 CaptureRate 1.000 	 Collisions 0 Time 2.070
+Write to file: data/sop_80_80_8_2_.txt
+Write to file: data/sop_80_80_8_2_statistical_result.txt
+Command: python run_sop.py  --x_size=80 --y_size=80 --n_pursuers=16 --n_targets=4 --n_episodes=100
+Seed   0 	 Episode   0 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 9.151
+Seed   1 	 Episode   1 	 EpLen 380 	 CaptureRate 1.000 	 Collisions 0 Time 7.350
+Seed   2 	 Episode   2 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 8.516
+Seed   3 	 Episode   3 	 EpLen 276 	 CaptureRate 1.000 	 Collisions 0 Time 5.319
+Seed   4 	 Episode   4 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 7.668
+Seed   5 	 Episode   5 	 EpLen 335 	 CaptureRate 1.000 	 Collisions 0 Time 6.150
+Seed   6 	 Episode   6 	 EpLen 212 	 CaptureRate 1.000 	 Collisions 0 Time 5.256
+Seed   7 	 Episode   7 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 9.264
+Seed   8 	 Episode   8 	 EpLen 343 	 CaptureRate 1.000 	 Collisions 0 Time 7.223
+Seed   9 	 Episode   9 	 EpLen 290 	 CaptureRate 1.000 	 Collisions 0 Time 6.785
+Seed  10 	 Episode  10 	 EpLen 256 	 CaptureRate 1.000 	 Collisions 0 Time 5.143
+Seed  11 	 Episode  11 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 9.002
+Seed  12 	 Episode  12 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 6.996
+Seed  13 	 Episode  13 	 EpLen 223 	 CaptureRate 1.000 	 Collisions 0 Time 4.986
+Seed  14 	 Episode  14 	 EpLen 151 	 CaptureRate 1.000 	 Collisions 0 Time 3.895
+Seed  15 	 Episode  15 	 EpLen 206 	 CaptureRate 1.000 	 Collisions 0 Time 4.845
+Seed  16 	 Episode  16 	 EpLen 335 	 CaptureRate 1.000 	 Collisions 0 Time 6.180
+Seed  17 	 Episode  17 	 EpLen 285 	 CaptureRate 1.000 	 Collisions 0 Time 5.430
+Seed  18 	 Episode  18 	 EpLen 446 	 CaptureRate 1.000 	 Collisions 0 Time 7.159
+Seed  19 	 Episode  19 	 EpLen 307 	 CaptureRate 1.000 	 Collisions 0 Time 6.800
+Seed  20 	 Episode  20 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 8.677
+Seed  21 	 Episode  21 	 EpLen 240 	 CaptureRate 1.000 	 Collisions 0 Time 6.094
+Seed  22 	 Episode  22 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 8.190
+Seed  23 	 Episode  23 	 EpLen 322 	 CaptureRate 1.000 	 Collisions 0 Time 7.207
+Seed  24 	 Episode  24 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 8.478
+Seed  25 	 Episode  25 	 EpLen 264 	 CaptureRate 1.000 	 Collisions 0 Time 7.139
+Seed  26 	 Episode  26 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 6.829
+Seed  27 	 Episode  27 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 8.056
+Seed  28 	 Episode  28 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 8.543
+Seed  29 	 Episode  29 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 8.554
+Seed  30 	 Episode  30 	 EpLen 301 	 CaptureRate 1.000 	 Collisions 0 Time 6.690
+Seed  31 	 Episode  31 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 9.847
+Seed  32 	 Episode  32 	 EpLen 418 	 CaptureRate 1.000 	 Collisions 0 Time 8.364
+Seed  33 	 Episode  33 	 EpLen 272 	 CaptureRate 1.000 	 Collisions 0 Time 5.899
+Seed  34 	 Episode  34 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 9.202
+Seed  35 	 Episode  35 	 EpLen 241 	 CaptureRate 1.000 	 Collisions 0 Time 4.394
+Seed  36 	 Episode  36 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 8.494
+Seed  37 	 Episode  37 	 EpLen 186 	 CaptureRate 1.000 	 Collisions 0 Time 4.000
+Seed  38 	 Episode  38 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 7.932
+Seed  39 	 Episode  39 	 EpLen 180 	 CaptureRate 1.000 	 Collisions 0 Time 3.092
+Seed  40 	 Episode  40 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 7.320
+Seed  41 	 Episode  41 	 EpLen 433 	 CaptureRate 1.000 	 Collisions 0 Time 9.030
+Seed  42 	 Episode  42 	 EpLen 260 	 CaptureRate 1.000 	 Collisions 0 Time 5.364
+Seed  43 	 Episode  43 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 7.309
+Seed  44 	 Episode  44 	 EpLen 315 	 CaptureRate 1.000 	 Collisions 0 Time 5.733
+Seed  45 	 Episode  45 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 10.393
+Seed  46 	 Episode  46 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 8.344
+Seed  47 	 Episode  47 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 7.939
+Seed  48 	 Episode  48 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 7.782
+Seed  49 	 Episode  49 	 EpLen 353 	 CaptureRate 1.000 	 Collisions 0 Time 8.087
+Seed  50 	 Episode  50 	 EpLen 282 	 CaptureRate 1.000 	 Collisions 0 Time 5.579
+Seed  51 	 Episode  51 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 8.191
+Seed  52 	 Episode  52 	 EpLen 252 	 CaptureRate 1.000 	 Collisions 0 Time 4.726
+Seed  53 	 Episode  53 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 8.494
+Seed  54 	 Episode  54 	 EpLen 239 	 CaptureRate 1.000 	 Collisions 0 Time 4.497
+Seed  55 	 Episode  55 	 EpLen 190 	 CaptureRate 1.000 	 Collisions 0 Time 3.923
+Seed  56 	 Episode  56 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 7.016
+Seed  57 	 Episode  57 	 EpLen 334 	 CaptureRate 1.000 	 Collisions 0 Time 6.002
+Seed  58 	 Episode  58 	 EpLen 256 	 CaptureRate 1.000 	 Collisions 0 Time 5.775
+Seed  59 	 Episode  59 	 EpLen 262 	 CaptureRate 1.000 	 Collisions 0 Time 7.805
+Seed  60 	 Episode  60 	 EpLen 367 	 CaptureRate 1.000 	 Collisions 0 Time 8.154
+Seed  61 	 Episode  61 	 EpLen 390 	 CaptureRate 1.000 	 Collisions 0 Time 6.565
+Seed  62 	 Episode  62 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 8.734
+Seed  63 	 Episode  63 	 EpLen 418 	 CaptureRate 1.000 	 Collisions 0 Time 8.114
+Seed  64 	 Episode  64 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 8.427
+Seed  65 	 Episode  65 	 EpLen 361 	 CaptureRate 1.000 	 Collisions 0 Time 8.565
+Seed  66 	 Episode  66 	 EpLen 243 	 CaptureRate 1.000 	 Collisions 0 Time 6.411
+Seed  67 	 Episode  67 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 9.074
+Seed  68 	 Episode  68 	 EpLen 359 	 CaptureRate 1.000 	 Collisions 0 Time 9.242
+Seed  69 	 Episode  69 	 EpLen 272 	 CaptureRate 1.000 	 Collisions 0 Time 6.286
+Seed  70 	 Episode  70 	 EpLen 275 	 CaptureRate 1.000 	 Collisions 0 Time 5.944
+Seed  71 	 Episode  71 	 EpLen 408 	 CaptureRate 1.000 	 Collisions 0 Time 7.657
+Seed  72 	 Episode  72 	 EpLen 273 	 CaptureRate 1.000 	 Collisions 0 Time 6.882
+Seed  73 	 Episode  73 	 EpLen 363 	 CaptureRate 1.000 	 Collisions 0 Time 8.352
+Seed  74 	 Episode  74 	 EpLen 152 	 CaptureRate 1.000 	 Collisions 0 Time 3.713
+Seed  75 	 Episode  75 	 EpLen 274 	 CaptureRate 1.000 	 Collisions 0 Time 9.146
+Seed  76 	 Episode  76 	 EpLen 459 	 CaptureRate 1.000 	 Collisions 0 Time 8.363
+Seed  77 	 Episode  77 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 10.455
+Seed  78 	 Episode  78 	 EpLen 469 	 CaptureRate 1.000 	 Collisions 0 Time 9.699
+Seed  79 	 Episode  79 	 EpLen 242 	 CaptureRate 1.000 	 Collisions 0 Time 4.535
+Seed  80 	 Episode  80 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 10.745
+Seed  81 	 Episode  81 	 EpLen 207 	 CaptureRate 1.000 	 Collisions 0 Time 5.459
+Seed  82 	 Episode  82 	 EpLen 304 	 CaptureRate 1.000 	 Collisions 0 Time 6.563
+Seed  83 	 Episode  83 	 EpLen 138 	 CaptureRate 1.000 	 Collisions 0 Time 6.497
+Seed  84 	 Episode  84 	 EpLen 385 	 CaptureRate 1.000 	 Collisions 0 Time 8.591
+Seed  85 	 Episode  85 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 9.587
+Seed  86 	 Episode  86 	 EpLen 226 	 CaptureRate 1.000 	 Collisions 0 Time 7.361
+Seed  87 	 Episode  87 	 EpLen 321 	 CaptureRate 1.000 	 Collisions 0 Time 7.652
+Seed  88 	 Episode  88 	 EpLen 302 	 CaptureRate 1.000 	 Collisions 0 Time 6.304
+Seed  89 	 Episode  89 	 EpLen 327 	 CaptureRate 1.000 	 Collisions 0 Time 7.899
+Seed  90 	 Episode  90 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 10.281
+Seed  91 	 Episode  91 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 7.872
+Seed  92 	 Episode  92 	 EpLen 365 	 CaptureRate 1.000 	 Collisions 0 Time 6.422
+Seed  93 	 Episode  93 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 8.123
+Seed  94 	 Episode  94 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 9.025
+Seed  95 	 Episode  95 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 9.079
+Seed  96 	 Episode  96 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 9.495
+Seed  97 	 Episode  97 	 EpLen 500 	 CaptureRate 0.500 	 Collisions 0 Time 7.803
+Seed  98 	 Episode  98 	 EpLen 385 	 CaptureRate 1.000 	 Collisions 0 Time 6.852
+Seed  99 	 Episode  99 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 7.983
+Write to file: data/sop_80_80_16_4_.txt
+Write to file: data/sop_80_80_16_4_statistical_result.txt
+Command: python run_sop.py  --x_size=80 --y_size=80 --n_pursuers=32 --n_targets=8 --n_episodes=100
+Seed   0 	 Episode   0 	 EpLen 311 	 CaptureRate 1.000 	 Collisions 0 Time 11.958
+Seed   1 	 Episode   1 	 EpLen 331 	 CaptureRate 1.000 	 Collisions 0 Time 11.735
+Seed   2 	 Episode   2 	 EpLen 361 	 CaptureRate 1.000 	 Collisions 0 Time 14.944
+Seed   3 	 Episode   3 	 EpLen 265 	 CaptureRate 1.000 	 Collisions 0 Time 11.352
+Seed   4 	 Episode   4 	 EpLen 196 	 CaptureRate 1.000 	 Collisions 0 Time 8.823
+Seed   5 	 Episode   5 	 EpLen 392 	 CaptureRate 1.000 	 Collisions 0 Time 13.312
+Seed   6 	 Episode   6 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 16.508
+Seed   7 	 Episode   7 	 EpLen 485 	 CaptureRate 1.000 	 Collisions 0 Time 19.331
+Seed   8 	 Episode   8 	 EpLen 108 	 CaptureRate 1.000 	 Collisions 0 Time 5.768
+Seed   9 	 Episode   9 	 EpLen 487 	 CaptureRate 1.000 	 Collisions 0 Time 15.808
+Seed  10 	 Episode  10 	 EpLen 240 	 CaptureRate 1.000 	 Collisions 0 Time 9.634
+Seed  11 	 Episode  11 	 EpLen 169 	 CaptureRate 1.000 	 Collisions 0 Time 6.372
+Seed  12 	 Episode  12 	 EpLen 247 	 CaptureRate 1.000 	 Collisions 0 Time 9.606
+Seed  13 	 Episode  13 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 15.708
+Seed  14 	 Episode  14 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 16.930
+Seed  15 	 Episode  15 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 18.089
+Seed  16 	 Episode  16 	 EpLen 429 	 CaptureRate 1.000 	 Collisions 0 Time 15.087
+Seed  17 	 Episode  17 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 16.370
+Seed  18 	 Episode  18 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 17.529
+Seed  19 	 Episode  19 	 EpLen 217 	 CaptureRate 1.000 	 Collisions 0 Time 9.330
+Seed  20 	 Episode  20 	 EpLen 303 	 CaptureRate 1.000 	 Collisions 0 Time 12.473
+Seed  21 	 Episode  21 	 EpLen 261 	 CaptureRate 1.000 	 Collisions 0 Time 13.582
+Seed  22 	 Episode  22 	 EpLen 488 	 CaptureRate 1.000 	 Collisions 0 Time 18.543
+Seed  23 	 Episode  23 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 17.985
+Seed  24 	 Episode  24 	 EpLen 368 	 CaptureRate 1.000 	 Collisions 0 Time 12.739
+Seed  25 	 Episode  25 	 EpLen 271 	 CaptureRate 1.000 	 Collisions 0 Time 11.364
+Seed  26 	 Episode  26 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 17.282
+Seed  27 	 Episode  27 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 16.830
+Seed  28 	 Episode  28 	 EpLen 107 	 CaptureRate 1.000 	 Collisions 0 Time 5.088
+Seed  29 	 Episode  29 	 EpLen 314 	 CaptureRate 1.000 	 Collisions 0 Time 11.364
+Seed  30 	 Episode  30 	 EpLen 371 	 CaptureRate 1.000 	 Collisions 0 Time 13.219
+Seed  31 	 Episode  31 	 EpLen 274 	 CaptureRate 1.000 	 Collisions 0 Time 10.766
+Seed  32 	 Episode  32 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 18.279
+Seed  33 	 Episode  33 	 EpLen 252 	 CaptureRate 1.000 	 Collisions 0 Time 10.518
+Seed  34 	 Episode  34 	 EpLen 300 	 CaptureRate 1.000 	 Collisions 0 Time 12.493
+Seed  35 	 Episode  35 	 EpLen 185 	 CaptureRate 1.000 	 Collisions 0 Time 11.772
+Seed  36 	 Episode  36 	 EpLen 241 	 CaptureRate 1.000 	 Collisions 0 Time 9.879
+Seed  37 	 Episode  37 	 EpLen 208 	 CaptureRate 1.000 	 Collisions 0 Time 8.738
+Seed  38 	 Episode  38 	 EpLen 233 	 CaptureRate 1.000 	 Collisions 0 Time 9.765
+Seed  39 	 Episode  39 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 18.412
+Seed  40 	 Episode  40 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 16.961
+Seed  41 	 Episode  41 	 EpLen 442 	 CaptureRate 1.000 	 Collisions 0 Time 14.468
+Seed  42 	 Episode  42 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 15.642
+Seed  43 	 Episode  43 	 EpLen 351 	 CaptureRate 1.000 	 Collisions 0 Time 12.469
+Seed  44 	 Episode  44 	 EpLen 395 	 CaptureRate 1.000 	 Collisions 0 Time 15.586
+Seed  45 	 Episode  45 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 19.776
+Seed  46 	 Episode  46 	 EpLen 303 	 CaptureRate 1.000 	 Collisions 0 Time 11.138
+Seed  47 	 Episode  47 	 EpLen 441 	 CaptureRate 1.000 	 Collisions 0 Time 15.335
+Seed  48 	 Episode  48 	 EpLen 191 	 CaptureRate 1.000 	 Collisions 0 Time 9.149
+Seed  49 	 Episode  49 	 EpLen 326 	 CaptureRate 1.000 	 Collisions 0 Time 12.953
+Seed  50 	 Episode  50 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 16.884
+Seed  51 	 Episode  51 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 17.557
+Seed  52 	 Episode  52 	 EpLen 287 	 CaptureRate 1.000 	 Collisions 0 Time 10.845
+Seed  53 	 Episode  53 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 17.041
+Seed  54 	 Episode  54 	 EpLen 328 	 CaptureRate 1.000 	 Collisions 0 Time 11.906
+Seed  55 	 Episode  55 	 EpLen 174 	 CaptureRate 1.000 	 Collisions 0 Time 7.809
+Seed  56 	 Episode  56 	 EpLen 327 	 CaptureRate 1.000 	 Collisions 0 Time 12.383
+Seed  57 	 Episode  57 	 EpLen 454 	 CaptureRate 1.000 	 Collisions 0 Time 15.989
+Seed  58 	 Episode  58 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 19.483
+Seed  59 	 Episode  59 	 EpLen 349 	 CaptureRate 1.000 	 Collisions 0 Time 14.199
+Seed  60 	 Episode  60 	 EpLen 366 	 CaptureRate 1.000 	 Collisions 0 Time 13.770
+Seed  61 	 Episode  61 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 15.443
+Seed  62 	 Episode  62 	 EpLen 190 	 CaptureRate 1.000 	 Collisions 0 Time 9.337
+Seed  63 	 Episode  63 	 EpLen 324 	 CaptureRate 1.000 	 Collisions 0 Time 13.037
+Seed  64 	 Episode  64 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 17.058
+Seed  65 	 Episode  65 	 EpLen 382 	 CaptureRate 1.000 	 Collisions 0 Time 14.064
+Seed  66 	 Episode  66 	 EpLen 223 	 CaptureRate 1.000 	 Collisions 0 Time 9.467
+Seed  67 	 Episode  67 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 16.968
+Seed  68 	 Episode  68 	 EpLen 297 	 CaptureRate 1.000 	 Collisions 0 Time 12.610
+Seed  69 	 Episode  69 	 EpLen 475 	 CaptureRate 1.000 	 Collisions 0 Time 18.504
+Seed  70 	 Episode  70 	 EpLen 347 	 CaptureRate 1.000 	 Collisions 0 Time 14.002
+Seed  71 	 Episode  71 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 23.421
+Seed  72 	 Episode  72 	 EpLen 323 	 CaptureRate 1.000 	 Collisions 0 Time 17.169
+Seed  73 	 Episode  73 	 EpLen 252 	 CaptureRate 1.000 	 Collisions 0 Time 12.205
+Seed  74 	 Episode  74 	 EpLen 462 	 CaptureRate 1.000 	 Collisions 0 Time 18.069
+Seed  75 	 Episode  75 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 15.714
+Seed  76 	 Episode  76 	 EpLen 415 	 CaptureRate 1.000 	 Collisions 0 Time 17.355
+Seed  77 	 Episode  77 	 EpLen 417 	 CaptureRate 1.000 	 Collisions 0 Time 17.298
+Seed  78 	 Episode  78 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 18.885
+Seed  79 	 Episode  79 	 EpLen 243 	 CaptureRate 1.000 	 Collisions 0 Time 11.444
+Seed  80 	 Episode  80 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 19.596
+Seed  81 	 Episode  81 	 EpLen 386 	 CaptureRate 1.000 	 Collisions 0 Time 12.830
+Seed  82 	 Episode  82 	 EpLen 255 	 CaptureRate 1.000 	 Collisions 0 Time 10.944
+Seed  83 	 Episode  83 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 17.490
+Seed  84 	 Episode  84 	 EpLen 258 	 CaptureRate 1.000 	 Collisions 0 Time 12.254
+Seed  85 	 Episode  85 	 EpLen 313 	 CaptureRate 1.000 	 Collisions 0 Time 12.591
+Seed  86 	 Episode  86 	 EpLen 253 	 CaptureRate 1.000 	 Collisions 0 Time 12.219
+Seed  87 	 Episode  87 	 EpLen 161 	 CaptureRate 1.000 	 Collisions 0 Time 7.231
+Seed  88 	 Episode  88 	 EpLen 477 	 CaptureRate 1.000 	 Collisions 0 Time 15.589
+Seed  89 	 Episode  89 	 EpLen 375 	 CaptureRate 1.000 	 Collisions 0 Time 15.247
+Seed  90 	 Episode  90 	 EpLen 464 	 CaptureRate 1.000 	 Collisions 0 Time 16.531
+Seed  91 	 Episode  91 	 EpLen 328 	 CaptureRate 1.000 	 Collisions 0 Time 13.234
+Seed  92 	 Episode  92 	 EpLen 403 	 CaptureRate 1.000 	 Collisions 0 Time 14.094
+Seed  93 	 Episode  93 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 19.010
+Seed  94 	 Episode  94 	 EpLen 214 	 CaptureRate 1.000 	 Collisions 0 Time 10.383
+Seed  95 	 Episode  95 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 17.076
+Seed  96 	 Episode  96 	 EpLen 500 	 CaptureRate 0.625 	 Collisions 0 Time 16.696
+Seed  97 	 Episode  97 	 EpLen 159 	 CaptureRate 1.000 	 Collisions 0 Time 9.044
+Seed  98 	 Episode  98 	 EpLen 500 	 CaptureRate 0.750 	 Collisions 0 Time 15.786
+Seed  99 	 Episode  99 	 EpLen 315 	 CaptureRate 1.000 	 Collisions 0 Time 11.403
+Write to file: data/sop_80_80_32_8_.txt
+Write to file: data/sop_80_80_32_8_statistical_result.txt
+Command: python run_sop.py  --x_size=80 --y_size=80 --n_pursuers=64 --n_targets=16 --n_episodes=100
+Seed   0 	 Episode   0 	 EpLen 228 	 CaptureRate 1.000 	 Collisions 0 Time 16.632
+Seed   1 	 Episode   1 	 EpLen 283 	 CaptureRate 1.000 	 Collisions 0 Time 24.362
+Seed   2 	 Episode   2 	 EpLen 311 	 CaptureRate 1.000 	 Collisions 0 Time 24.295
+Seed   3 	 Episode   3 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 35.374
+Seed   4 	 Episode   4 	 EpLen 226 	 CaptureRate 1.000 	 Collisions 0 Time 18.485
+Seed   5 	 Episode   5 	 EpLen 317 	 CaptureRate 1.000 	 Collisions 0 Time 23.524
+Seed   6 	 Episode   6 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 34.429
+Seed   7 	 Episode   7 	 EpLen 430 	 CaptureRate 1.000 	 Collisions 0 Time 30.575
+Seed   8 	 Episode   8 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 36.424
+Seed   9 	 Episode   9 	 EpLen 262 	 CaptureRate 1.000 	 Collisions 0 Time 21.744
+Seed  10 	 Episode  10 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 33.273
+Seed  11 	 Episode  11 	 EpLen 284 	 CaptureRate 1.000 	 Collisions 0 Time 20.642
+Seed  12 	 Episode  12 	 EpLen 302 	 CaptureRate 1.000 	 Collisions 0 Time 22.740
+Seed  13 	 Episode  13 	 EpLen 147 	 CaptureRate 1.000 	 Collisions 0 Time 12.332
+Seed  14 	 Episode  14 	 EpLen 219 	 CaptureRate 1.000 	 Collisions 0 Time 16.280
+Seed  15 	 Episode  15 	 EpLen 202 	 CaptureRate 1.000 	 Collisions 0 Time 16.210
+Seed  16 	 Episode  16 	 EpLen 195 	 CaptureRate 1.000 	 Collisions 0 Time 15.459
+Seed  17 	 Episode  17 	 EpLen 476 	 CaptureRate 1.000 	 Collisions 0 Time 32.798
+Seed  18 	 Episode  18 	 EpLen 323 	 CaptureRate 1.000 	 Collisions 0 Time 25.422
+Seed  19 	 Episode  19 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 35.076
+Seed  20 	 Episode  20 	 EpLen 355 	 CaptureRate 1.000 	 Collisions 0 Time 27.775
+Seed  21 	 Episode  21 	 EpLen 488 	 CaptureRate 1.000 	 Collisions 0 Time 37.873
+Seed  22 	 Episode  22 	 EpLen 318 	 CaptureRate 1.000 	 Collisions 0 Time 22.639
+Seed  23 	 Episode  23 	 EpLen 175 	 CaptureRate 1.000 	 Collisions 0 Time 19.206
+Seed  24 	 Episode  24 	 EpLen 177 	 CaptureRate 1.000 	 Collisions 0 Time 16.126
+Seed  25 	 Episode  25 	 EpLen 320 	 CaptureRate 1.000 	 Collisions 0 Time 28.242
+Seed  26 	 Episode  26 	 EpLen 179 	 CaptureRate 1.000 	 Collisions 0 Time 20.232
+Seed  27 	 Episode  27 	 EpLen 280 	 CaptureRate 1.000 	 Collisions 0 Time 22.700
+Seed  28 	 Episode  28 	 EpLen 263 	 CaptureRate 1.000 	 Collisions 0 Time 20.239
+Seed  29 	 Episode  29 	 EpLen 204 	 CaptureRate 1.000 	 Collisions 0 Time 19.342
+Seed  30 	 Episode  30 	 EpLen 296 	 CaptureRate 1.000 	 Collisions 0 Time 26.611
+Seed  31 	 Episode  31 	 EpLen 180 	 CaptureRate 1.000 	 Collisions 0 Time 14.551
+Seed  32 	 Episode  32 	 EpLen 288 	 CaptureRate 1.000 	 Collisions 0 Time 22.835
+Seed  33 	 Episode  33 	 EpLen 154 	 CaptureRate 1.000 	 Collisions 0 Time 13.403
+Seed  34 	 Episode  34 	 EpLen 147 	 CaptureRate 1.000 	 Collisions 0 Time 16.218
+Seed  35 	 Episode  35 	 EpLen 188 	 CaptureRate 1.000 	 Collisions 0 Time 17.771
+Seed  36 	 Episode  36 	 EpLen 167 	 CaptureRate 1.000 	 Collisions 0 Time 16.890
+Seed  37 	 Episode  37 	 EpLen 178 	 CaptureRate 1.000 	 Collisions 0 Time 16.605
+Seed  38 	 Episode  38 	 EpLen 198 	 CaptureRate 1.000 	 Collisions 0 Time 18.434
+Seed  39 	 Episode  39 	 EpLen 107 	 CaptureRate 1.000 	 Collisions 0 Time 10.639
+Seed  40 	 Episode  40 	 EpLen 195 	 CaptureRate 1.000 	 Collisions 0 Time 16.365
+Seed  41 	 Episode  41 	 EpLen 493 	 CaptureRate 1.000 	 Collisions 0 Time 35.479
+Seed  42 	 Episode  42 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 35.874
+Seed  43 	 Episode  43 	 EpLen 298 	 CaptureRate 1.000 	 Collisions 0 Time 23.429
+Seed  44 	 Episode  44 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 34.751
+Seed  45 	 Episode  45 	 EpLen 110 	 CaptureRate 1.000 	 Collisions 0 Time 11.145
+Seed  46 	 Episode  46 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 39.388
+Seed  47 	 Episode  47 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 35.272
+Seed  48 	 Episode  48 	 EpLen 284 	 CaptureRate 1.000 	 Collisions 0 Time 22.991
+Seed  49 	 Episode  49 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 34.892
+Seed  50 	 Episode  50 	 EpLen 140 	 CaptureRate 1.000 	 Collisions 0 Time 12.917
+Seed  51 	 Episode  51 	 EpLen 202 	 CaptureRate 1.000 	 Collisions 0 Time 20.077
+Seed  52 	 Episode  52 	 EpLen 293 	 CaptureRate 1.000 	 Collisions 0 Time 26.442
+Seed  53 	 Episode  53 	 EpLen 243 	 CaptureRate 1.000 	 Collisions 0 Time 19.953
+Seed  54 	 Episode  54 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 31.471
+Seed  55 	 Episode  55 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 33.073
+Seed  56 	 Episode  56 	 EpLen 237 	 CaptureRate 1.000 	 Collisions 0 Time 20.128
+Seed  57 	 Episode  57 	 EpLen 181 	 CaptureRate 1.000 	 Collisions 0 Time 20.920
+Seed  58 	 Episode  58 	 EpLen 485 	 CaptureRate 1.000 	 Collisions 0 Time 36.475
+Seed  59 	 Episode  59 	 EpLen 309 	 CaptureRate 1.000 	 Collisions 0 Time 28.851
+Seed  60 	 Episode  60 	 EpLen 211 	 CaptureRate 1.000 	 Collisions 0 Time 16.856
+Seed  61 	 Episode  61 	 EpLen 395 	 CaptureRate 1.000 	 Collisions 0 Time 30.038
+Seed  62 	 Episode  62 	 EpLen 218 	 CaptureRate 1.000 	 Collisions 0 Time 20.807
+Seed  63 	 Episode  63 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 33.697
+Seed  64 	 Episode  64 	 EpLen 414 	 CaptureRate 1.000 	 Collisions 0 Time 30.383
+Seed  65 	 Episode  65 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 35.651
+Seed  66 	 Episode  66 	 EpLen 255 	 CaptureRate 1.000 	 Collisions 0 Time 20.926
+Seed  67 	 Episode  67 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 46.624
+Seed  68 	 Episode  68 	 EpLen 468 	 CaptureRate 1.000 	 Collisions 0 Time 35.289
+Seed  69 	 Episode  69 	 EpLen 206 	 CaptureRate 1.000 	 Collisions 0 Time 18.320
+Seed  70 	 Episode  70 	 EpLen 480 	 CaptureRate 1.000 	 Collisions 0 Time 35.017
+Seed  71 	 Episode  71 	 EpLen 160 	 CaptureRate 1.000 	 Collisions 0 Time 14.748
+Seed  72 	 Episode  72 	 EpLen 114 	 CaptureRate 1.000 	 Collisions 0 Time 11.589
+Seed  73 	 Episode  73 	 EpLen 151 	 CaptureRate 1.000 	 Collisions 0 Time 15.137
+Seed  74 	 Episode  74 	 EpLen 241 	 CaptureRate 1.000 	 Collisions 0 Time 19.502
+Seed  75 	 Episode  75 	 EpLen 500 	 CaptureRate 0.875 	 Collisions 0 Time 32.718
+Seed  76 	 Episode  76 	 EpLen 162 	 CaptureRate 1.000 	 Collisions 0 Time 15.465
+Seed  77 	 Episode  77 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 34.925
+Seed  78 	 Episode  78 	 EpLen 206 	 CaptureRate 1.000 	 Collisions 0 Time 18.303
+Seed  79 	 Episode  79 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 48.637
+Seed  80 	 Episode  80 	 EpLen 322 	 CaptureRate 1.000 	 Collisions 0 Time 27.376
+Seed  81 	 Episode  81 	 EpLen 205 	 CaptureRate 1.000 	 Collisions 0 Time 18.952
+Seed  82 	 Episode  82 	 EpLen 301 	 CaptureRate 1.000 	 Collisions 0 Time 30.283
+Seed  83 	 Episode  83 	 EpLen 350 	 CaptureRate 1.000 	 Collisions 0 Time 41.340
+Seed  84 	 Episode  84 	 EpLen 411 	 CaptureRate 1.000 	 Collisions 0 Time 32.192
+Seed  85 	 Episode  85 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 39.527
+Seed  86 	 Episode  86 	 EpLen 193 	 CaptureRate 1.000 	 Collisions 0 Time 18.859
+Seed  87 	 Episode  87 	 EpLen 203 	 CaptureRate 1.000 	 Collisions 0 Time 15.563
+Seed  88 	 Episode  88 	 EpLen 294 	 CaptureRate 1.000 	 Collisions 0 Time 26.045
+Seed  89 	 Episode  89 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 38.431
+Seed  90 	 Episode  90 	 EpLen 205 	 CaptureRate 1.000 	 Collisions 0 Time 18.109
+Seed  91 	 Episode  91 	 EpLen 423 	 CaptureRate 1.000 	 Collisions 0 Time 32.838
+Seed  92 	 Episode  92 	 EpLen 339 	 CaptureRate 1.000 	 Collisions 0 Time 27.557
+Seed  93 	 Episode  93 	 EpLen 267 	 CaptureRate 1.000 	 Collisions 0 Time 20.490
+Seed  94 	 Episode  94 	 EpLen 324 	 CaptureRate 1.000 	 Collisions 0 Time 22.777
+Seed  95 	 Episode  95 	 EpLen 137 	 CaptureRate 1.000 	 Collisions 0 Time 15.201
+Seed  96 	 Episode  96 	 EpLen 283 	 CaptureRate 1.000 	 Collisions 0 Time 22.044
+Seed  97 	 Episode  97 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 35.197
+Seed  98 	 Episode  98 	 EpLen 143 	 CaptureRate 1.000 	 Collisions 0 Time 14.823
+Seed  99 	 Episode  99 	 EpLen 152 	 CaptureRate 1.000 	 Collisions 0 Time 13.923
+Write to file: data/sop_80_80_64_16_.txt
+Write to file: data/sop_80_80_64_16_statistical_result.txt
+Command: python run_sop.py  --x_size=80 --y_size=80 --n_pursuers=128 --n_targets=32 --n_episodes=100
+Seed   0 	 Episode   0 	 EpLen 181 	 CaptureRate 1.000 	 Collisions 0 Time 35.554
+Seed   1 	 Episode   1 	 EpLen 228 	 CaptureRate 1.000 	 Collisions 0 Time 42.541
+Seed   2 	 Episode   2 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 68.111
+Seed   3 	 Episode   3 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 80.279
+Seed   4 	 Episode   4 	 EpLen 340 	 CaptureRate 1.000 	 Collisions 0 Time 57.572
+Seed   5 	 Episode   5 	 EpLen 273 	 CaptureRate 1.000 	 Collisions 0 Time 46.002
+Seed   6 	 Episode   6 	 EpLen 295 	 CaptureRate 1.000 	 Collisions 0 Time 46.219
+Seed   7 	 Episode   7 	 EpLen 256 	 CaptureRate 1.000 	 Collisions 0 Time 48.139
+Seed   8 	 Episode   8 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 73.899
+Seed   9 	 Episode   9 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 73.821
+Seed  10 	 Episode  10 	 EpLen 224 	 CaptureRate 1.000 	 Collisions 0 Time 35.891
+Seed  11 	 Episode  11 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 78.657
+Seed  12 	 Episode  12 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 76.345
+Seed  13 	 Episode  13 	 EpLen 192 	 CaptureRate 1.000 	 Collisions 0 Time 39.050
+Seed  14 	 Episode  14 	 EpLen 140 	 CaptureRate 1.000 	 Collisions 0 Time 26.951
+Seed  15 	 Episode  15 	 EpLen 220 	 CaptureRate 1.000 	 Collisions 0 Time 37.369
+Seed  16 	 Episode  16 	 EpLen 259 	 CaptureRate 1.000 	 Collisions 0 Time 45.805
+Seed  17 	 Episode  17 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 72.174
+Seed  18 	 Episode  18 	 EpLen 151 	 CaptureRate 1.000 	 Collisions 0 Time 30.452
+Seed  19 	 Episode  19 	 EpLen 165 	 CaptureRate 1.000 	 Collisions 0 Time 30.516
+Seed  20 	 Episode  20 	 EpLen 255 	 CaptureRate 1.000 	 Collisions 0 Time 43.594
+Seed  21 	 Episode  21 	 EpLen 179 	 CaptureRate 1.000 	 Collisions 0 Time 33.540
+Seed  22 	 Episode  22 	 EpLen 247 	 CaptureRate 1.000 	 Collisions 0 Time 45.680
+Seed  23 	 Episode  23 	 EpLen 164 	 CaptureRate 1.000 	 Collisions 0 Time 28.528
+Seed  24 	 Episode  24 	 EpLen 240 	 CaptureRate 1.000 	 Collisions 0 Time 39.018
+Seed  25 	 Episode  25 	 EpLen 236 	 CaptureRate 1.000 	 Collisions 0 Time 39.798
+Seed  26 	 Episode  26 	 EpLen 465 	 CaptureRate 1.000 	 Collisions 0 Time 70.204
+Seed  27 	 Episode  27 	 EpLen 142 	 CaptureRate 1.000 	 Collisions 0 Time 26.385
+Seed  28 	 Episode  28 	 EpLen 139 	 CaptureRate 1.000 	 Collisions 0 Time 29.399
+Seed  29 	 Episode  29 	 EpLen 475 	 CaptureRate 1.000 	 Collisions 0 Time 71.400
+Seed  30 	 Episode  30 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 72.724
+Seed  31 	 Episode  31 	 EpLen 267 	 CaptureRate 1.000 	 Collisions 0 Time 44.166
+Seed  32 	 Episode  32 	 EpLen 130 	 CaptureRate 1.000 	 Collisions 0 Time 26.787
+Seed  33 	 Episode  33 	 EpLen 147 	 CaptureRate 1.000 	 Collisions 0 Time 27.152
+Seed  34 	 Episode  34 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 77.955
+Seed  35 	 Episode  35 	 EpLen 200 	 CaptureRate 1.000 	 Collisions 0 Time 35.197
+Seed  36 	 Episode  36 	 EpLen 285 	 CaptureRate 1.000 	 Collisions 0 Time 56.711
+Seed  37 	 Episode  37 	 EpLen 218 	 CaptureRate 1.000 	 Collisions 0 Time 42.823
+Seed  38 	 Episode  38 	 EpLen 228 	 CaptureRate 1.000 	 Collisions 0 Time 45.014
+Seed  39 	 Episode  39 	 EpLen 477 	 CaptureRate 1.000 	 Collisions 0 Time 71.932
+Seed  40 	 Episode  40 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 71.690
+Seed  41 	 Episode  41 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 84.836
+Seed  42 	 Episode  42 	 EpLen 196 	 CaptureRate 1.000 	 Collisions 0 Time 37.877
+Seed  43 	 Episode  43 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 77.824
+Seed  44 	 Episode  44 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 72.535
+Seed  45 	 Episode  45 	 EpLen 256 	 CaptureRate 1.000 	 Collisions 0 Time 40.552
+Seed  46 	 Episode  46 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 69.125
+Seed  47 	 Episode  47 	 EpLen 479 	 CaptureRate 1.000 	 Collisions 0 Time 63.330
+Seed  48 	 Episode  48 	 EpLen 142 	 CaptureRate 1.000 	 Collisions 0 Time 27.926
+Seed  49 	 Episode  49 	 EpLen 147 	 CaptureRate 1.000 	 Collisions 0 Time 28.488
+Seed  50 	 Episode  50 	 EpLen 397 	 CaptureRate 1.000 	 Collisions 0 Time 56.179
+Seed  51 	 Episode  51 	 EpLen 153 	 CaptureRate 1.000 	 Collisions 0 Time 29.513
+Seed  52 	 Episode  52 	 EpLen 347 	 CaptureRate 1.000 	 Collisions 0 Time 52.310
+Seed  53 	 Episode  53 	 EpLen 273 	 CaptureRate 1.000 	 Collisions 0 Time 42.434
+Seed  54 	 Episode  54 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 69.941
+Seed  55 	 Episode  55 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 76.258
+Seed  56 	 Episode  56 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 68.482
+Seed  57 	 Episode  57 	 EpLen 169 	 CaptureRate 1.000 	 Collisions 0 Time 37.085
+Seed  58 	 Episode  58 	 EpLen 370 	 CaptureRate 1.000 	 Collisions 0 Time 60.486
+Seed  59 	 Episode  59 	 EpLen 200 	 CaptureRate 1.000 	 Collisions 0 Time 40.007
+Seed  60 	 Episode  60 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 83.005
+Seed  61 	 Episode  61 	 EpLen 163 	 CaptureRate 1.000 	 Collisions 0 Time 37.112
+Seed  62 	 Episode  62 	 EpLen 246 	 CaptureRate 1.000 	 Collisions 0 Time 42.914
+Seed  63 	 Episode  63 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 73.558
+Seed  64 	 Episode  64 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 77.435
+Seed  65 	 Episode  65 	 EpLen 210 	 CaptureRate 1.000 	 Collisions 0 Time 53.798
+Seed  66 	 Episode  66 	 EpLen 167 	 CaptureRate 1.000 	 Collisions 0 Time 43.490
+Seed  67 	 Episode  67 	 EpLen 289 	 CaptureRate 1.000 	 Collisions 0 Time 48.634
+Seed  68 	 Episode  68 	 EpLen 269 	 CaptureRate 1.000 	 Collisions 0 Time 46.058
+Seed  69 	 Episode  69 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 78.659
+Seed  70 	 Episode  70 	 EpLen 500 	 CaptureRate 0.906 	 Collisions 0 Time 78.843
+Seed  71 	 Episode  71 	 EpLen 180 	 CaptureRate 1.000 	 Collisions 0 Time 35.335
+Seed  72 	 Episode  72 	 EpLen 153 	 CaptureRate 1.000 	 Collisions 0 Time 36.829
+Seed  73 	 Episode  73 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 80.984
+Seed  74 	 Episode  74 	 EpLen 218 	 CaptureRate 1.000 	 Collisions 0 Time 40.405
+Seed  75 	 Episode  75 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 79.585
+Seed  76 	 Episode  76 	 EpLen 201 	 CaptureRate 1.000 	 Collisions 0 Time 35.044
+Seed  77 	 Episode  77 	 EpLen 190 	 CaptureRate 1.000 	 Collisions 0 Time 37.663
+Seed  78 	 Episode  78 	 EpLen 260 	 CaptureRate 1.000 	 Collisions 0 Time 46.011
+Seed  79 	 Episode  79 	 EpLen 284 	 CaptureRate 1.000 	 Collisions 0 Time 48.662
+Seed  80 	 Episode  80 	 EpLen 141 	 CaptureRate 1.000 	 Collisions 0 Time 28.186
+Seed  81 	 Episode  81 	 EpLen 197 	 CaptureRate 1.000 	 Collisions 0 Time 40.033
+Seed  82 	 Episode  82 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 73.356
+Seed  83 	 Episode  83 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 81.087
+Seed  84 	 Episode  84 	 EpLen 240 	 CaptureRate 1.000 	 Collisions 0 Time 43.125
+Seed  85 	 Episode  85 	 EpLen 228 	 CaptureRate 1.000 	 Collisions 0 Time 43.417
+Seed  86 	 Episode  86 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 70.029
+Seed  87 	 Episode  87 	 EpLen 259 	 CaptureRate 1.000 	 Collisions 0 Time 46.606
+Seed  88 	 Episode  88 	 EpLen 249 	 CaptureRate 1.000 	 Collisions 0 Time 46.692
+Seed  89 	 Episode  89 	 EpLen 221 	 CaptureRate 1.000 	 Collisions 0 Time 43.829
+Seed  90 	 Episode  90 	 EpLen 270 	 CaptureRate 1.000 	 Collisions 0 Time 52.570
+Seed  91 	 Episode  91 	 EpLen 268 	 CaptureRate 1.000 	 Collisions 0 Time 55.709
+Seed  92 	 Episode  92 	 EpLen 487 	 CaptureRate 1.000 	 Collisions 0 Time 77.130
+Seed  93 	 Episode  93 	 EpLen 176 	 CaptureRate 1.000 	 Collisions 0 Time 36.070
+Seed  94 	 Episode  94 	 EpLen 308 	 CaptureRate 1.000 	 Collisions 0 Time 53.091
+Seed  95 	 Episode  95 	 EpLen 475 	 CaptureRate 1.000 	 Collisions 0 Time 68.413
+Seed  96 	 Episode  96 	 EpLen 148 	 CaptureRate 1.000 	 Collisions 0 Time 36.805
+Seed  97 	 Episode  97 	 EpLen 303 	 CaptureRate 1.000 	 Collisions 0 Time 59.985
+Seed  98 	 Episode  98 	 EpLen 198 	 CaptureRate 1.000 	 Collisions 0 Time 41.118
+Seed  99 	 Episode  99 	 EpLen 270 	 CaptureRate 1.000 	 Collisions 0 Time 48.531
+Write to file: data/sop_80_80_128_32_.txt
+Write to file: data/sop_80_80_128_32_statistical_result.txt
+Command: python run_sop.py  --x_size=80 --y_size=80 --n_pursuers=256 --n_targets=64 --n_episodes=100
+Seed   0 	 Episode   0 	 EpLen 153 	 CaptureRate 1.000 	 Collisions 0 Time 65.886
+Seed   1 	 Episode   1 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 171.828
+Seed   2 	 Episode   2 	 EpLen 258 	 CaptureRate 1.000 	 Collisions 0 Time 93.424
+Seed   3 	 Episode   3 	 EpLen 278 	 CaptureRate 1.000 	 Collisions 0 Time 108.667
+Seed   4 	 Episode   4 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 180.480
+Seed   5 	 Episode   5 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 169.640
+Seed   6 	 Episode   6 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 167.690
+Seed   7 	 Episode   7 	 EpLen 184 	 CaptureRate 1.000 	 Collisions 0 Time 75.855
+Seed   8 	 Episode   8 	 EpLen 385 	 CaptureRate 1.000 	 Collisions 0 Time 132.594
+Seed   9 	 Episode   9 	 EpLen 285 	 CaptureRate 1.000 	 Collisions 0 Time 102.627
+Seed  10 	 Episode  10 	 EpLen 400 	 CaptureRate 1.000 	 Collisions 0 Time 126.077
+Seed  11 	 Episode  11 	 EpLen 360 	 CaptureRate 1.000 	 Collisions 0 Time 117.858
+Seed  12 	 Episode  12 	 EpLen 290 	 CaptureRate 1.000 	 Collisions 0 Time 102.027
+Seed  13 	 Episode  13 	 EpLen 205 	 CaptureRate 1.000 	 Collisions 0 Time 79.304
+Seed  14 	 Episode  14 	 EpLen 455 	 CaptureRate 1.000 	 Collisions 0 Time 139.485
+Seed  15 	 Episode  15 	 EpLen 114 	 CaptureRate 1.000 	 Collisions 0 Time 50.267
+Seed  16 	 Episode  16 	 EpLen 322 	 CaptureRate 1.000 	 Collisions 0 Time 112.250
+Seed  17 	 Episode  17 	 EpLen 487 	 CaptureRate 1.000 	 Collisions 0 Time 144.177
+Seed  18 	 Episode  18 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 173.561
+Seed  19 	 Episode  19 	 EpLen 378 	 CaptureRate 1.000 	 Collisions 0 Time 117.668
+Seed  20 	 Episode  20 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 155.667
+Seed  21 	 Episode  21 	 EpLen 231 	 CaptureRate 1.000 	 Collisions 0 Time 83.925
+Seed  22 	 Episode  22 	 EpLen 209 	 CaptureRate 1.000 	 Collisions 0 Time 73.201
+Seed  23 	 Episode  23 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 161.975
+Seed  24 	 Episode  24 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 148.283
+Seed  25 	 Episode  25 	 EpLen 190 	 CaptureRate 1.000 	 Collisions 0 Time 73.768
+Seed  26 	 Episode  26 	 EpLen 338 	 CaptureRate 1.000 	 Collisions 0 Time 118.274
+Seed  27 	 Episode  27 	 EpLen 189 	 CaptureRate 1.000 	 Collisions 0 Time 72.128
+Seed  28 	 Episode  28 	 EpLen 234 	 CaptureRate 1.000 	 Collisions 0 Time 81.190
+Seed  29 	 Episode  29 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 151.821
+Seed  30 	 Episode  30 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 148.887
+Seed  31 	 Episode  31 	 EpLen 346 	 CaptureRate 1.000 	 Collisions 0 Time 115.791
+Seed  32 	 Episode  32 	 EpLen 305 	 CaptureRate 1.000 	 Collisions 0 Time 102.026
+Seed  33 	 Episode  33 	 EpLen 332 	 CaptureRate 1.000 	 Collisions 0 Time 102.719
+Seed  34 	 Episode  34 	 EpLen 429 	 CaptureRate 1.000 	 Collisions 0 Time 148.117
+Seed  35 	 Episode  35 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 167.393
+Seed  36 	 Episode  36 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 177.464
+Seed  37 	 Episode  37 	 EpLen 183 	 CaptureRate 1.000 	 Collisions 0 Time 67.222
+Seed  38 	 Episode  38 	 EpLen 374 	 CaptureRate 1.000 	 Collisions 0 Time 122.356
+Seed  39 	 Episode  39 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 151.442
+Seed  40 	 Episode  40 	 EpLen 132 	 CaptureRate 1.000 	 Collisions 0 Time 52.957
+Seed  41 	 Episode  41 	 EpLen 500 	 CaptureRate 0.953 	 Collisions 0 Time 151.197
+Seed  42 	 Episode  42 	 EpLen 500 	 CaptureRate 0.938 	 Collisions 0 Time 146.703
+Seed  43 	 Episode  43 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 153.316
+Seed  44 	 Episode  44 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 139.409
+Seed  45 	 Episode  45 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 153.735
+Seed  46 	 Episode  46 	 EpLen 259 	 CaptureRate 1.000 	 Collisions 0 Time 87.471
+Seed  47 	 Episode  47 	 EpLen 193 	 CaptureRate 1.000 	 Collisions 0 Time 65.360
+Seed  48 	 Episode  48 	 EpLen 247 	 CaptureRate 1.000 	 Collisions 0 Time 86.398
+Seed  49 	 Episode  49 	 EpLen 475 	 CaptureRate 1.000 	 Collisions 0 Time 138.030
+Seed  50 	 Episode  50 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 149.953
+Seed  51 	 Episode  51 	 EpLen 115 	 CaptureRate 1.000 	 Collisions 0 Time 45.444
+Seed  52 	 Episode  52 	 EpLen 500 	 CaptureRate 0.922 	 Collisions 0 Time 159.208
+Seed  53 	 Episode  53 	 EpLen 141 	 CaptureRate 1.000 	 Collisions 0 Time 55.255
+Seed  54 	 Episode  54 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 153.126
+Seed  55 	 Episode  55 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 151.125
+Seed  56 	 Episode  56 	 EpLen 152 	 CaptureRate 1.000 	 Collisions 0 Time 60.994
+Seed  57 	 Episode  57 	 EpLen 163 	 CaptureRate 1.000 	 Collisions 0 Time 59.697
+Seed  58 	 Episode  58 	 EpLen 141 	 CaptureRate 1.000 	 Collisions 0 Time 56.138
+Seed  59 	 Episode  59 	 EpLen 179 	 CaptureRate 1.000 	 Collisions 0 Time 64.230
+Seed  60 	 Episode  60 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 149.234
+Seed  61 	 Episode  61 	 EpLen 220 	 CaptureRate 1.000 	 Collisions 0 Time 72.113
+Seed  62 	 Episode  62 	 EpLen 155 	 CaptureRate 1.000 	 Collisions 0 Time 59.294
+Seed  63 	 Episode  63 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 136.263
+Seed  64 	 Episode  64 	 EpLen 180 	 CaptureRate 1.000 	 Collisions 0 Time 64.538
+Seed  65 	 Episode  65 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 142.402
+Seed  66 	 Episode  66 	 EpLen 396 	 CaptureRate 1.000 	 Collisions 0 Time 128.525
+Seed  67 	 Episode  67 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 150.608
+Seed  68 	 Episode  68 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 154.825
+Seed  69 	 Episode  69 	 EpLen 270 	 CaptureRate 1.000 	 Collisions 0 Time 103.287
+Seed  70 	 Episode  70 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 152.913
+Seed  71 	 Episode  71 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 164.129
+Seed  72 	 Episode  72 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 165.640
+Seed  73 	 Episode  73 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 178.281
+Seed  74 	 Episode  74 	 EpLen 181 	 CaptureRate 1.000 	 Collisions 0 Time 81.694
+Seed  75 	 Episode  75 	 EpLen 166 	 CaptureRate 1.000 	 Collisions 0 Time 76.108
+Seed  76 	 Episode  76 	 EpLen 114 	 CaptureRate 1.000 	 Collisions 0 Time 51.999
+Seed  77 	 Episode  77 	 EpLen 500 	 CaptureRate 0.922 	 Collisions 0 Time 171.051
+Seed  78 	 Episode  78 	 EpLen 166 	 CaptureRate 1.000 	 Collisions 0 Time 75.463
+Seed  79 	 Episode  79 	 EpLen 201 	 CaptureRate 1.000 	 Collisions 0 Time 86.785
+Seed  80 	 Episode  80 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 155.395
+Seed  81 	 Episode  81 	 EpLen 200 	 CaptureRate 1.000 	 Collisions 0 Time 69.508
+Seed  82 	 Episode  82 	 EpLen 215 	 CaptureRate 1.000 	 Collisions 0 Time 80.888
+Seed  83 	 Episode  83 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 177.923
+Seed  84 	 Episode  84 	 EpLen 290 	 CaptureRate 1.000 	 Collisions 0 Time 101.689
+Seed  85 	 Episode  85 	 EpLen 150 	 CaptureRate 1.000 	 Collisions 0 Time 58.872
+Seed  86 	 Episode  86 	 EpLen 311 	 CaptureRate 1.000 	 Collisions 0 Time 120.628
+Seed  87 	 Episode  87 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 188.324
+Seed  88 	 Episode  88 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 153.338
+Seed  89 	 Episode  89 	 EpLen 395 	 CaptureRate 1.000 	 Collisions 0 Time 134.365
+Seed  90 	 Episode  90 	 EpLen 490 	 CaptureRate 1.000 	 Collisions 0 Time 154.842
+Seed  91 	 Episode  91 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 163.144
+Collision! ep_len, idx_predator, role, position: 139 183 searcher [74 75]
+Collision! ep_len, idx_predator, role, position: 140 183 searcher [73 75]
+Collision! ep_len, idx_predator, role, position: 189 205 searcher [73 75]
+Collision! ep_len, idx_predator, role, position: 190 205 searcher [73 76]
+Collision! ep_len, idx_predator, role, position: 191 205 searcher [73 75]
+Collision! ep_len, idx_predator, role, position: 192 205 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 193 205 searcher [72 74]
+Collision! ep_len, idx_predator, role, position: 294 237 searcher [64 76]
+Collision! ep_len, idx_predator, role, position: 295 237 searcher [64 77]
+Collision! ep_len, idx_predator, role, position: 296 237 searcher [65 77]
+Collision! ep_len, idx_predator, role, position: 297 237 searcher [64 77]
+Collision! ep_len, idx_predator, role, position: 298 237 searcher [65 77]
+Collision! ep_len, idx_predator, role, position: 299 237 searcher [64 77]
+Seed  92 	 Episode  92 	 EpLen 500 	 CaptureRate 0.922 	 Collisions 13 Time 180.294
+Seed  93 	 Episode  93 	 EpLen 134 	 CaptureRate 1.000 	 Collisions 0 Time 54.247
+Seed  94 	 Episode  94 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 172.427
+Seed  95 	 Episode  95 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 160.883
+Seed  96 	 Episode  96 	 EpLen 183 	 CaptureRate 1.000 	 Collisions 0 Time 72.069
+Seed  97 	 Episode  97 	 EpLen 289 	 CaptureRate 1.000 	 Collisions 0 Time 109.616
+Seed  98 	 Episode  98 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 156.769
+Seed  99 	 Episode  99 	 EpLen 158 	 CaptureRate 1.000 	 Collisions 0 Time 66.000
+Write to file: data/sop_80_80_256_64_.txt
+Write to file: data/sop_80_80_256_64_statistical_result.txt
+Command: python run_sop.py  --x_size=80 --y_size=80 --n_pursuers=512 --n_targets=128 --n_episodes=100
+Seed   0 	 Episode   0 	 EpLen 82 	 CaptureRate 1.000 	 Collisions 0 Time 95.324
+Seed   1 	 Episode   1 	 EpLen 172 	 CaptureRate 1.000 	 Collisions 0 Time 165.061
+Seed   2 	 Episode   2 	 EpLen 94 	 CaptureRate 1.000 	 Collisions 0 Time 94.002
+Seed   3 	 Episode   3 	 EpLen 117 	 CaptureRate 1.000 	 Collisions 0 Time 112.997
+Seed   4 	 Episode   4 	 EpLen 92 	 CaptureRate 1.000 	 Collisions 0 Time 95.286
+Collision! ep_len, idx_predator, role, position: 343 486 searcher [69 75]
+Collision! ep_len, idx_predator, role, position: 344 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 345 486 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 346 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 347 486 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 348 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 353 486 searcher [69 75]
+Collision! ep_len, idx_predator, role, position: 354 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 355 486 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 356 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 357 486 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 358 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 359 486 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 360 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 361 486 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 362 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 363 486 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 364 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 365 486 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 366 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 367 486 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 368 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 369 486 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 370 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 371 486 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 372 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 373 486 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 374 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 375 486 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 376 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 377 486 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 378 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 380 486 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 381 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 382 486 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 383 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 384 486 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 385 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 386 486 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 387 486 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 388 486 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 389 486 searcher [68 73]
+Collision! ep_len, idx_predator, role, position: 390 486 searcher [69 73]
+Collision! ep_len, idx_predator, role, position: 391 486 searcher [68 73]
+Collision! ep_len, idx_predator, role, position: 392 486 searcher [69 73]
+Collision! ep_len, idx_predator, role, position: 393 486 searcher [68 73]
+Collision! ep_len, idx_predator, role, position: 394 486 searcher [69 73]
+Collision! ep_len, idx_predator, role, position: 395 486 searcher [68 73]
+Collision! ep_len, idx_predator, role, position: 396 486 searcher [69 73]
+Collision! ep_len, idx_predator, role, position: 397 486 searcher [69 72]
+Collision! ep_len, idx_predator, role, position: 398 486 searcher [68 72]
+Collision! ep_len, idx_predator, role, position: 399 486 searcher [69 72]
+Collision! ep_len, idx_predator, role, position: 400 486 searcher [69 71]
+Collision! ep_len, idx_predator, role, position: 401 486 searcher [70 71]
+Collision! ep_len, idx_predator, role, position: 402 486 searcher [69 71]
+Collision! ep_len, idx_predator, role, position: 403 486 searcher [68 71]
+Collision! ep_len, idx_predator, role, position: 404 486 searcher [68 70]
+Collision! ep_len, idx_predator, role, position: 450 204 searcher [70 75]
+Collision! ep_len, idx_predator, role, position: 451 204 searcher [69 75]
+Collision! ep_len, idx_predator, role, position: 452 204 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 453 204 searcher [69 75]
+Collision! ep_len, idx_predator, role, position: 454 204 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 455 204 searcher [69 75]
+Collision! ep_len, idx_predator, role, position: 456 204 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 457 204 searcher [69 75]
+Collision! ep_len, idx_predator, role, position: 458 204 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 459 204 searcher [69 75]
+Collision! ep_len, idx_predator, role, position: 460 204 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 461 204 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 462 204 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 463 204 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 464 204 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 465 204 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 466 204 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 467 204 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 468 204 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 469 204 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 470 204 searcher [69 74]
+Collision! ep_len, idx_predator, role, position: 471 204 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 472 204 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 473 204 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 474 204 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 475 204 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 476 204 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 477 204 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 478 204 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 479 204 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 480 204 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 482 204 searcher [68 74]
+Collision! ep_len, idx_predator, role, position: 483 204 searcher [68 73]
+Collision! ep_len, idx_predator, role, position: 484 204 searcher [69 73]
+Collision! ep_len, idx_predator, role, position: 485 204 searcher [68 73]
+Collision! ep_len, idx_predator, role, position: 486 204 searcher [69 73]
+Collision! ep_len, idx_predator, role, position: 487 204 searcher [68 73]
+Collision! ep_len, idx_predator, role, position: 488 204 searcher [69 73]
+Collision! ep_len, idx_predator, role, position: 489 204 searcher [68 73]
+Collision! ep_len, idx_predator, role, position: 490 204 searcher [69 73]
+Collision! ep_len, idx_predator, role, position: 492 204 searcher [69 74]
+Collision! ep_len, idx_predator, role, position: 493 204 searcher [69 73]
+Collision! ep_len, idx_predator, role, position: 494 204 searcher [70 73]
+Collision! ep_len, idx_predator, role, position: 495 204 searcher [69 73]
+Collision! ep_len, idx_predator, role, position: 496 204 searcher [69 72]
+Collision! ep_len, idx_predator, role, position: 497 204 searcher [70 72]
+Collision! ep_len, idx_predator, role, position: 498 204 searcher [69 72]
+Collision! ep_len, idx_predator, role, position: 499 204 searcher [68 72]
+Seed   5 	 Episode   5 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 105 Time 363.409
+Seed   6 	 Episode   6 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 348.082
+Seed   7 	 Episode   7 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 369.936
+Seed   8 	 Episode   8 	 EpLen 107 	 CaptureRate 1.000 	 Collisions 0 Time 102.804
+Collision! ep_len, idx_predator, role, position: 233 460 searcher [69 77]
+Collision! ep_len, idx_predator, role, position: 234 460 searcher [69 76]
+Collision! ep_len, idx_predator, role, position: 235 460 searcher [69 77]
+Collision! ep_len, idx_predator, role, position: 236 460 searcher [69 76]
+Collision! ep_len, idx_predator, role, position: 237 460 searcher [69 77]
+Collision! ep_len, idx_predator, role, position: 238 460 searcher [69 76]
+Collision! ep_len, idx_predator, role, position: 239 460 searcher [69 77]
+Collision! ep_len, idx_predator, role, position: 240 460 searcher [69 76]
+Collision! ep_len, idx_predator, role, position: 241 460 searcher [69 77]
+Collision! ep_len, idx_predator, role, position: 242 460 searcher [69 76]
+Collision! ep_len, idx_predator, role, position: 243 460 searcher [69 77]
+Seed   9 	 Episode   9 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 11 Time 382.601
+Seed  10 	 Episode  10 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 387.537
+Seed  11 	 Episode  11 	 EpLen 99 	 CaptureRate 1.000 	 Collisions 0 Time 106.474
+Seed  12 	 Episode  12 	 EpLen 301 	 CaptureRate 1.000 	 Collisions 0 Time 262.826
+Seed  13 	 Episode  13 	 EpLen 242 	 CaptureRate 1.000 	 Collisions 0 Time 200.787
+Seed  14 	 Episode  14 	 EpLen 161 	 CaptureRate 1.000 	 Collisions 0 Time 146.945
+Seed  15 	 Episode  15 	 EpLen 145 	 CaptureRate 1.000 	 Collisions 0 Time 152.145
+Seed  16 	 Episode  16 	 EpLen 364 	 CaptureRate 1.000 	 Collisions 0 Time 298.127
+Seed  17 	 Episode  17 	 EpLen 154 	 CaptureRate 1.000 	 Collisions 0 Time 136.136
+Seed  18 	 Episode  18 	 EpLen 139 	 CaptureRate 1.000 	 Collisions 0 Time 116.328
+Seed  19 	 Episode  19 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 373.422
+Seed  20 	 Episode  20 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 363.880
+Seed  21 	 Episode  21 	 EpLen 107 	 CaptureRate 1.000 	 Collisions 0 Time 104.518
+Seed  22 	 Episode  22 	 EpLen 83 	 CaptureRate 1.000 	 Collisions 0 Time 86.941
+Seed  23 	 Episode  23 	 EpLen 301 	 CaptureRate 1.000 	 Collisions 0 Time 234.739
+Seed  24 	 Episode  24 	 EpLen 70 	 CaptureRate 1.000 	 Collisions 0 Time 71.573
+Seed  25 	 Episode  25 	 EpLen 240 	 CaptureRate 1.000 	 Collisions 0 Time 191.329
+Seed  26 	 Episode  26 	 EpLen 316 	 CaptureRate 1.000 	 Collisions 0 Time 264.466
+Seed  27 	 Episode  27 	 EpLen 91 	 CaptureRate 1.000 	 Collisions 0 Time 91.030
+Seed  28 	 Episode  28 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 351.392
+Collision! ep_len, idx_predator, role, position: 426 354 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 427 354 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 428 354 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 429 354 searcher [72 77]
+Collision! ep_len, idx_predator, role, position: 430 354 searcher [71 77]
+Collision! ep_len, idx_predator, role, position: 431 354 searcher [71 78]
+Collision! ep_len, idx_predator, role, position: 432 354 searcher [71 77]
+Collision! ep_len, idx_predator, role, position: 433 354 searcher [71 78]
+Collision! ep_len, idx_predator, role, position: 434 354 searcher [71 77]
+Collision! ep_len, idx_predator, role, position: 435 354 searcher [71 78]
+Collision! ep_len, idx_predator, role, position: 436 354 searcher [71 77]
+Collision! ep_len, idx_predator, role, position: 437 354 searcher [71 78]
+Collision! ep_len, idx_predator, role, position: 438 354 searcher [71 77]
+Collision! ep_len, idx_predator, role, position: 439 354 searcher [71 78]
+Collision! ep_len, idx_predator, role, position: 440 354 searcher [71 77]
+Collision! ep_len, idx_predator, role, position: 441 354 searcher [71 78]
+Collision! ep_len, idx_predator, role, position: 442 354 searcher [71 77]
+Collision! ep_len, idx_predator, role, position: 443 354 searcher [71 78]
+Collision! ep_len, idx_predator, role, position: 444 354 searcher [71 77]
+Collision! ep_len, idx_predator, role, position: 445 354 searcher [71 78]
+Collision! ep_len, idx_predator, role, position: 446 354 searcher [71 77]
+Collision! ep_len, idx_predator, role, position: 447 354 searcher [71 78]
+Collision! ep_len, idx_predator, role, position: 448 354 searcher [71 77]
+Collision! ep_len, idx_predator, role, position: 449 354 searcher [71 78]
+Collision! ep_len, idx_predator, role, position: 450 354 searcher [71 77]
+Collision! ep_len, idx_predator, role, position: 451 354 searcher [71 78]
+Collision! ep_len, idx_predator, role, position: 452 354 searcher [71 77]
+Collision! ep_len, idx_predator, role, position: 453 354 searcher [71 78]
+Collision! ep_len, idx_predator, role, position: 454 354 searcher [71 77]
+Collision! ep_len, idx_predator, role, position: 455 354 searcher [71 78]
+Collision! ep_len, idx_predator, role, position: 456 354 searcher [71 77]
+Collision! ep_len, idx_predator, role, position: 457 354 searcher [71 78]
+Collision! ep_len, idx_predator, role, position: 458 354 searcher [71 77]
+Collision! ep_len, idx_predator, role, position: 459 354 searcher [71 78]
+Collision! ep_len, idx_predator, role, position: 460 354 searcher [72 78]
+Collision! ep_len, idx_predator, role, position: 461 354 searcher [71 78]
+Collision! ep_len, idx_predator, role, position: 462 354 searcher [71 77]
+Collision! ep_len, idx_predator, role, position: 463 354 searcher [71 78]
+Collision! ep_len, idx_predator, role, position: 464 354 searcher [71 77]
+Collision! ep_len, idx_predator, role, position: 465 354 searcher [71 78]
+Collision! ep_len, idx_predator, role, position: 466 354 searcher [71 77]
+Collision! ep_len, idx_predator, role, position: 467 354 searcher [71 78]
+Collision! ep_len, idx_predator, role, position: 468 354 searcher [71 77]
+Seed  29 	 Episode  29 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 43 Time 367.347
+Collision! ep_len, idx_predator, role, position: 237 391 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 238 391 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 239 391 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 240 391 searcher [73 76]
+Seed  30 	 Episode  30 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 4 Time 344.384
+Seed  31 	 Episode  31 	 EpLen 201 	 CaptureRate 1.000 	 Collisions 0 Time 168.672
+Seed  32 	 Episode  32 	 EpLen 163 	 CaptureRate 1.000 	 Collisions 0 Time 138.214
+Seed  33 	 Episode  33 	 EpLen 482 	 CaptureRate 1.000 	 Collisions 0 Time 346.611
+Seed  34 	 Episode  34 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 360.738
+Collision! ep_len, idx_predator, role, position: 462 370 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 463 370 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 464 370 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 465 370 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 466 370 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 467 370 searcher [75 77]
+Seed  35 	 Episode  35 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 6 Time 355.804
+Seed  36 	 Episode  36 	 EpLen 500 	 CaptureRate 0.977 	 Collisions 0 Time 360.084
+Seed  37 	 Episode  37 	 EpLen 176 	 CaptureRate 1.000 	 Collisions 0 Time 150.120
+Seed  38 	 Episode  38 	 EpLen 120 	 CaptureRate 1.000 	 Collisions 0 Time 103.740
+Collision! ep_len, idx_predator, role, position: 208 205 searcher [71 75]
+Collision! ep_len, idx_predator, role, position: 209 205 searcher [70 75]
+Collision! ep_len, idx_predator, role, position: 210 205 searcher [69 75]
+Seed  39 	 Episode  39 	 EpLen 408 	 CaptureRate 1.000 	 Collisions 3 Time 271.244
+Seed  40 	 Episode  40 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 356.434
+Seed  41 	 Episode  41 	 EpLen 197 	 CaptureRate 1.000 	 Collisions 0 Time 161.844
+Seed  42 	 Episode  42 	 EpLen 232 	 CaptureRate 1.000 	 Collisions 0 Time 182.932
+Seed  43 	 Episode  43 	 EpLen 142 	 CaptureRate 1.000 	 Collisions 0 Time 125.646
+Seed  44 	 Episode  44 	 EpLen 150 	 CaptureRate 1.000 	 Collisions 0 Time 137.410
+Seed  45 	 Episode  45 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 347.995
+Seed  46 	 Episode  46 	 EpLen 107 	 CaptureRate 1.000 	 Collisions 0 Time 103.089
+Seed  47 	 Episode  47 	 EpLen 210 	 CaptureRate 1.000 	 Collisions 0 Time 173.859
+Seed  48 	 Episode  48 	 EpLen 156 	 CaptureRate 1.000 	 Collisions 0 Time 141.197
+Seed  49 	 Episode  49 	 EpLen 114 	 CaptureRate 1.000 	 Collisions 0 Time 111.179
+Seed  50 	 Episode  50 	 EpLen 167 	 CaptureRate 1.000 	 Collisions 0 Time 152.434
+Seed  51 	 Episode  51 	 EpLen 75 	 CaptureRate 1.000 	 Collisions 0 Time 81.510
+Seed  52 	 Episode  52 	 EpLen 103 	 CaptureRate 1.000 	 Collisions 0 Time 104.150
+Seed  53 	 Episode  53 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 367.273
+Seed  54 	 Episode  54 	 EpLen 175 	 CaptureRate 1.000 	 Collisions 0 Time 141.148
+Seed  55 	 Episode  55 	 EpLen 166 	 CaptureRate 1.000 	 Collisions 0 Time 141.285
+Seed  56 	 Episode  56 	 EpLen 100 	 CaptureRate 1.000 	 Collisions 0 Time 98.615
+Seed  57 	 Episode  57 	 EpLen 114 	 CaptureRate 1.000 	 Collisions 0 Time 108.408
+Seed  58 	 Episode  58 	 EpLen 160 	 CaptureRate 1.000 	 Collisions 0 Time 134.839
+Seed  59 	 Episode  59 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 365.305
+Seed  60 	 Episode  60 	 EpLen 164 	 CaptureRate 1.000 	 Collisions 0 Time 137.392
+Seed  61 	 Episode  61 	 EpLen 202 	 CaptureRate 1.000 	 Collisions 0 Time 162.827
+Seed  62 	 Episode  62 	 EpLen 254 	 CaptureRate 1.000 	 Collisions 0 Time 200.346
+Collision! ep_len, idx_predator, role, position: 101 502 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 102 502 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 103 502 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 104 502 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 105 502 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 106 502 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 107 502 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 108 502 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 111 502 searcher [75 78]
+Collision! ep_len, idx_predator, role, position: 116 345 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 117 345 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 118 345 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 119 345 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 120 345 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 121 345 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 122 345 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 155 299 searcher [74 76]
+Collision! ep_len, idx_predator, role, position: 156 299 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 157 299 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 158 299 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 159 299 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 160 299 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 161 299 searcher [74 76]
+Collision! ep_len, idx_predator, role, position: 165 281 searcher [74 74]
+Collision! ep_len, idx_predator, role, position: 187 176 searcher [67 75]
+Collision! ep_len, idx_predator, role, position: 188 176 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 189 176 searcher [67 75]
+Collision! ep_len, idx_predator, role, position: 190 176 searcher [68 75]
+Collision! ep_len, idx_predator, role, position: 190 504 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 191 176 searcher [67 75]
+Collision! ep_len, idx_predator, role, position: 191 504 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 192 176 searcher [67 74]
+Collision! ep_len, idx_predator, role, position: 193 176 searcher [67 75]
+Collision! ep_len, idx_predator, role, position: 194 176 searcher [67 74]
+Collision! ep_len, idx_predator, role, position: 195 176 searcher [66 74]
+Collision! ep_len, idx_predator, role, position: 208 441 searcher [74 76]
+Collision! ep_len, idx_predator, role, position: 209 441 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 210 441 searcher [74 76]
+Collision! ep_len, idx_predator, role, position: 211 441 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 263 195 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 264 195 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 265 195 searcher [74 76]
+Collision! ep_len, idx_predator, role, position: 266 195 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 267 195 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 328 500 searcher [75 74]
+Collision! ep_len, idx_predator, role, position: 329 500 searcher [74 74]
+Collision! ep_len, idx_predator, role, position: 383 235 searcher [73 74]
+Collision! ep_len, idx_predator, role, position: 384 235 searcher [73 75]
+Collision! ep_len, idx_predator, role, position: 385 235 searcher [73 74]
+Collision! ep_len, idx_predator, role, position: 386 235 searcher [73 75]
+Collision! ep_len, idx_predator, role, position: 387 235 searcher [73 74]
+Collision! ep_len, idx_predator, role, position: 388 235 searcher [74 74]
+Collision! ep_len, idx_predator, role, position: 389 235 searcher [73 74]
+Collision! ep_len, idx_predator, role, position: 487 308 searcher [72 74]
+Seed  63 	 Episode  63 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 54 Time 331.612
+Seed  64 	 Episode  64 	 EpLen 314 	 CaptureRate 1.000 	 Collisions 0 Time 231.003
+Seed  65 	 Episode  65 	 EpLen 226 	 CaptureRate 1.000 	 Collisions 0 Time 176.614
+Seed  66 	 Episode  66 	 EpLen 150 	 CaptureRate 1.000 	 Collisions 0 Time 122.925
+Seed  67 	 Episode  67 	 EpLen 222 	 CaptureRate 1.000 	 Collisions 0 Time 176.011
+Collision! ep_len, idx_predator, role, position: 483 330 searcher [74 75]
+Collision! ep_len, idx_predator, role, position: 484 330 searcher [73 75]
+Collision! ep_len, idx_predator, role, position: 485 330 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 486 330 searcher [73 75]
+Collision! ep_len, idx_predator, role, position: 487 330 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 488 330 searcher [73 75]
+Collision! ep_len, idx_predator, role, position: 489 330 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 490 330 searcher [73 75]
+Collision! ep_len, idx_predator, role, position: 491 330 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 492 330 searcher [73 75]
+Collision! ep_len, idx_predator, role, position: 493 330 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 494 330 searcher [73 75]
+Collision! ep_len, idx_predator, role, position: 495 330 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 496 330 searcher [73 75]
+Collision! ep_len, idx_predator, role, position: 497 330 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 498 330 searcher [73 75]
+Collision! ep_len, idx_predator, role, position: 499 330 searcher [72 75]
+Seed  68 	 Episode  68 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 17 Time 351.076
+Seed  69 	 Episode  69 	 EpLen 433 	 CaptureRate 1.000 	 Collisions 0 Time 303.168
+Seed  70 	 Episode  70 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 335.794
+Seed  71 	 Episode  71 	 EpLen 293 	 CaptureRate 1.000 	 Collisions 0 Time 228.122
+Seed  72 	 Episode  72 	 EpLen 223 	 CaptureRate 1.000 	 Collisions 0 Time 171.816
+Seed  73 	 Episode  73 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 347.894
+Seed  74 	 Episode  74 	 EpLen 157 	 CaptureRate 1.000 	 Collisions 0 Time 131.931
+Seed  75 	 Episode  75 	 EpLen 162 	 CaptureRate 1.000 	 Collisions 0 Time 142.317
+Seed  76 	 Episode  76 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 384.705
+Seed  77 	 Episode  77 	 EpLen 128 	 CaptureRate 1.000 	 Collisions 0 Time 113.854
+Seed  78 	 Episode  78 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 361.451
+Seed  79 	 Episode  79 	 EpLen 96 	 CaptureRate 1.000 	 Collisions 0 Time 93.266
+Seed  80 	 Episode  80 	 EpLen 154 	 CaptureRate 1.000 	 Collisions 0 Time 135.715
+Seed  81 	 Episode  81 	 EpLen 185 	 CaptureRate 1.000 	 Collisions 0 Time 155.165
+Seed  82 	 Episode  82 	 EpLen 500 	 CaptureRate 0.977 	 Collisions 0 Time 348.780
+Seed  83 	 Episode  83 	 EpLen 163 	 CaptureRate 1.000 	 Collisions 0 Time 136.381
+Seed  84 	 Episode  84 	 EpLen 108 	 CaptureRate 1.000 	 Collisions 0 Time 102.401
+Seed  85 	 Episode  85 	 EpLen 163 	 CaptureRate 1.000 	 Collisions 0 Time 133.767
+Seed  86 	 Episode  86 	 EpLen 254 	 CaptureRate 1.000 	 Collisions 0 Time 201.176
+Collision! ep_len, idx_predator, role, position: 111 434 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 112 434 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 113 434 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 114 434 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 115 434 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 116 434 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 117 434 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 118 434 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 119 434 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 120 434 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 121 434 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 122 434 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 123 434 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 124 434 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 125 434 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 126 434 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 127 434 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 128 434 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 129 434 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 130 434 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 131 434 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 132 434 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 133 434 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 134 434 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 135 434 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 136 434 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 137 434 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 138 434 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 139 434 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 140 434 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 141 434 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 142 271 searcher [75 57]
+Collision! ep_len, idx_predator, role, position: 142 434 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 143 271 searcher [75 58]
+Collision! ep_len, idx_predator, role, position: 162 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 163 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 164 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 165 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 166 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 167 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 168 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 169 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 170 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 171 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 172 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 173 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 174 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 175 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 176 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 177 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 178 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 179 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 180 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 181 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 182 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 182 434 searcher [71 58]
+Collision! ep_len, idx_predator, role, position: 183 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 183 434 searcher [72 58]
+Collision! ep_len, idx_predator, role, position: 184 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 184 434 searcher [71 58]
+Collision! ep_len, idx_predator, role, position: 185 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 185 434 searcher [72 58]
+Collision! ep_len, idx_predator, role, position: 186 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 186 434 searcher [71 58]
+Collision! ep_len, idx_predator, role, position: 187 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 187 434 searcher [72 58]
+Collision! ep_len, idx_predator, role, position: 188 434 searcher [71 58]
+Collision! ep_len, idx_predator, role, position: 189 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 189 434 searcher [72 58]
+Collision! ep_len, idx_predator, role, position: 190 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 190 434 searcher [72 59]
+Collision! ep_len, idx_predator, role, position: 191 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 192 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 192 434 searcher [72 60]
+Collision! ep_len, idx_predator, role, position: 193 117 searcher [74 59]
+Collision! ep_len, idx_predator, role, position: 194 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 195 117 searcher [72 59]
+Collision! ep_len, idx_predator, role, position: 196 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 197 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 198 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 199 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 200 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 202 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 203 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 211 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 212 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 213 117 searcher [72 59]
+Collision! ep_len, idx_predator, role, position: 214 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 215 117 searcher [72 59]
+Collision! ep_len, idx_predator, role, position: 216 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 217 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 218 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 220 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 221 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 223 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 224 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 225 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 226 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 227 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 228 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 232 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 233 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 234 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 235 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 237 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 238 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 238 313 searcher [72 59]
+Collision! ep_len, idx_predator, role, position: 239 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 239 313 searcher [72 58]
+Collision! ep_len, idx_predator, role, position: 240 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 240 313 searcher [72 59]
+Collision! ep_len, idx_predator, role, position: 241 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 241 313 searcher [72 58]
+Collision! ep_len, idx_predator, role, position: 242 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 243 313 searcher [72 59]
+Collision! ep_len, idx_predator, role, position: 245 313 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 248 313 searcher [72 59]
+Collision! ep_len, idx_predator, role, position: 249 313 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 250 313 searcher [72 59]
+Collision! ep_len, idx_predator, role, position: 251 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 251 313 searcher [72 58]
+Collision! ep_len, idx_predator, role, position: 252 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 252 313 searcher [72 59]
+Collision! ep_len, idx_predator, role, position: 253 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 253 313 searcher [72 58]
+Collision! ep_len, idx_predator, role, position: 254 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 254 313 searcher [72 59]
+Collision! ep_len, idx_predator, role, position: 255 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 255 313 searcher [72 58]
+Collision! ep_len, idx_predator, role, position: 256 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 257 313 searcher [72 59]
+Collision! ep_len, idx_predator, role, position: 258 313 searcher [72 58]
+Collision! ep_len, idx_predator, role, position: 259 313 searcher [72 59]
+Collision! ep_len, idx_predator, role, position: 260 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 260 313 searcher [72 58]
+Collision! ep_len, idx_predator, role, position: 261 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 262 313 searcher [72 59]
+Collision! ep_len, idx_predator, role, position: 262 334 searcher [73 68]
+Collision! ep_len, idx_predator, role, position: 263 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 263 313 searcher [72 58]
+Collision! ep_len, idx_predator, role, position: 263 334 searcher [73 69]
+Collision! ep_len, idx_predator, role, position: 264 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 264 313 searcher [73 58]
+Collision! ep_len, idx_predator, role, position: 264 334 searcher [73 70]
+Collision! ep_len, idx_predator, role, position: 265 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 265 313 searcher [72 58]
+Collision! ep_len, idx_predator, role, position: 266 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 267 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 268 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 269 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 270 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 272 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 273 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 274 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 275 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 276 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 277 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 279 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 280 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 282 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 283 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 299 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 300 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 302 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 304 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 306 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 307 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 308 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 309 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 311 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 312 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 316 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 317 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 319 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 320 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 321 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 322 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 323 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 324 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 325 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 326 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 327 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 328 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 329 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 330 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 331 117 searcher [72 59]
+Collision! ep_len, idx_predator, role, position: 332 117 searcher [72 58]
+Collision! ep_len, idx_predator, role, position: 333 117 searcher [72 59]
+Collision! ep_len, idx_predator, role, position: 334 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 335 117 searcher [72 59]
+Collision! ep_len, idx_predator, role, position: 336 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 337 117 searcher [72 59]
+Collision! ep_len, idx_predator, role, position: 338 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 339 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 340 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 341 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 342 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 343 117 searcher [73 60]
+Collision! ep_len, idx_predator, role, position: 344 117 searcher [73 59]
+Collision! ep_len, idx_predator, role, position: 346 117 searcher [73 60]
+Seed  87 	 Episode  87 	 EpLen 349 	 CaptureRate 1.000 	 Collisions 200 Time 267.739
+Seed  88 	 Episode  88 	 EpLen 237 	 CaptureRate 1.000 	 Collisions 0 Time 186.145
+Seed  89 	 Episode  89 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 344.704
+Seed  90 	 Episode  90 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 363.554
+Seed  91 	 Episode  91 	 EpLen 136 	 CaptureRate 1.000 	 Collisions 0 Time 124.586
+Collision! ep_len, idx_predator, role, position: 230 293 searcher [74 75]
+Collision! ep_len, idx_predator, role, position: 231 293 searcher [74 76]
+Collision! ep_len, idx_predator, role, position: 232 293 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 233 293 searcher [74 76]
+Collision! ep_len, idx_predator, role, position: 234 293 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 235 293 searcher [74 76]
+Collision! ep_len, idx_predator, role, position: 236 293 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 237 293 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 238 293 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 239 293 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 240 293 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 241 293 searcher [74 76]
+Collision! ep_len, idx_predator, role, position: 242 293 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 243 293 searcher [74 76]
+Collision! ep_len, idx_predator, role, position: 244 293 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 246 293 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 247 293 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 248 293 searcher [74 76]
+Collision! ep_len, idx_predator, role, position: 249 293 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 250 293 searcher [74 76]
+Collision! ep_len, idx_predator, role, position: 251 293 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 252 293 searcher [74 76]
+Seed  92 	 Episode  92 	 EpLen 500 	 CaptureRate 0.977 	 Collisions 22 Time 374.142
+Seed  93 	 Episode  93 	 EpLen 126 	 CaptureRate 1.000 	 Collisions 0 Time 118.414
+Seed  94 	 Episode  94 	 EpLen 274 	 CaptureRate 1.000 	 Collisions 0 Time 214.260
+Seed  95 	 Episode  95 	 EpLen 244 	 CaptureRate 1.000 	 Collisions 0 Time 201.841
+Seed  96 	 Episode  96 	 EpLen 142 	 CaptureRate 1.000 	 Collisions 0 Time 125.637
+Seed  97 	 Episode  97 	 EpLen 149 	 CaptureRate 1.000 	 Collisions 0 Time 131.032
+Seed  98 	 Episode  98 	 EpLen 242 	 CaptureRate 1.000 	 Collisions 0 Time 190.163
+Collision! ep_len, idx_predator, role, position: 181 503 searcher [75 75]
+Collision! ep_len, idx_predator, role, position: 182 351 searcher [75 76]
+Collision! ep_len, idx_predator, role, position: 182 503 searcher [75 76]
+Collision! ep_len, idx_predator, role, position: 183 351 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 183 503 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 184 351 searcher [76 77]
+Collision! ep_len, idx_predator, role, position: 184 503 searcher [76 77]
+Collision! ep_len, idx_predator, role, position: 185 351 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 185 503 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 186 351 searcher [76 77]
+Collision! ep_len, idx_predator, role, position: 186 503 searcher [76 77]
+Collision! ep_len, idx_predator, role, position: 187 351 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 187 503 searcher [75 77]
+Collision! ep_len, idx_predator, role, position: 188 503 searcher [76 77]
+Seed  99 	 Episode  99 	 EpLen 217 	 CaptureRate 1.000 	 Collisions 14 Time 168.397
+Write to file: data/sop_80_80_512_128_.txt
+Write to file: data/sop_80_80_512_128_statistical_result.txt
+Command: python run_sop.py  --x_size=80 --y_size=80 --n_pursuers=1024 --n_targets=256 --n_episodes=100
+Seed   0 	 Episode   0 	 EpLen 151 	 CaptureRate 1.000 	 Collisions 0 Time 334.438
+Seed   1 	 Episode   1 	 EpLen 200 	 CaptureRate 1.000 	 Collisions 0 Time 438.116
+Seed   2 	 Episode   2 	 EpLen 432 	 CaptureRate 1.000 	 Collisions 0 Time 868.816
+Seed   3 	 Episode   3 	 EpLen 248 	 CaptureRate 1.000 	 Collisions 0 Time 532.338
+Seed   4 	 Episode   4 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 1002.706
+Seed   5 	 Episode   5 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 1047.309
+Seed   6 	 Episode   6 	 EpLen 212 	 CaptureRate 1.000 	 Collisions 0 Time 460.513
+Seed   7 	 Episode   7 	 EpLen 70 	 CaptureRate 1.000 	 Collisions 0 Time 177.825
+Seed   8 	 Episode   8 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 1017.934
+Collision! ep_len, idx_predator, role, position: 5 929 searcher [57  8]
+Collision! ep_len, idx_predator, role, position: 6 929 searcher [57  9]
+Collision! ep_len, idx_predator, role, position: 8 929 searcher [57 10]
+Collision! ep_len, idx_predator, role, position: 9 929 searcher [56 10]
+Collision! ep_len, idx_predator, role, position: 10 929 searcher [55 10]
+Collision! ep_len, idx_predator, role, position: 11 929 searcher [55 11]
+Collision! ep_len, idx_predator, role, position: 12 929 searcher [55 10]
+Collision! ep_len, idx_predator, role, position: 13 929 searcher [55 11]
+Collision! ep_len, idx_predator, role, position: 14 929 searcher [55 10]
+Collision! ep_len, idx_predator, role, position: 15 929 searcher [56 10]
+Collision! ep_len, idx_predator, role, position: 16 929 searcher [56 11]
+Seed   9 	 Episode   9 	 EpLen 84 	 CaptureRate 1.000 	 Collisions 11 Time 212.817
+Seed  10 	 Episode  10 	 EpLen 91 	 CaptureRate 1.000 	 Collisions 0 Time 227.787
+Seed  11 	 Episode  11 	 EpLen 143 	 CaptureRate 1.000 	 Collisions 0 Time 317.842
+Seed  12 	 Episode  12 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 992.153
+Seed  13 	 Episode  13 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 998.972
+Seed  14 	 Episode  14 	 EpLen 117 	 CaptureRate 1.000 	 Collisions 0 Time 267.230
+Seed  15 	 Episode  15 	 EpLen 314 	 CaptureRate 1.000 	 Collisions 0 Time 650.267
+Seed  16 	 Episode  16 	 EpLen 243 	 CaptureRate 1.000 	 Collisions 0 Time 512.207
+Collision! ep_len, idx_predator, role, position: 434 380 searcher [67 77]
+Collision! ep_len, idx_predator, role, position: 435 380 searcher [66 77]
+Collision! ep_len, idx_predator, role, position: 436 380 searcher [65 77]
+Collision! ep_len, idx_predator, role, position: 437 380 searcher [66 77]
+Collision! ep_len, idx_predator, role, position: 438 380 searcher [65 77]
+Collision! ep_len, idx_predator, role, position: 439 380 searcher [66 77]
+Collision! ep_len, idx_predator, role, position: 440 380 searcher [65 77]
+Collision! ep_len, idx_predator, role, position: 441 380 searcher [66 77]
+Collision! ep_len, idx_predator, role, position: 442 380 searcher [65 77]
+Collision! ep_len, idx_predator, role, position: 443 380 searcher [66 77]
+Collision! ep_len, idx_predator, role, position: 444 380 searcher [65 77]
+Seed  17 	 Episode  17 	 EpLen 500 	 CaptureRate 0.988 	 Collisions 11 Time 1009.389
+Seed  18 	 Episode  18 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 1004.417
+Seed  19 	 Episode  19 	 EpLen 210 	 CaptureRate 1.000 	 Collisions 0 Time 448.658
+Seed  20 	 Episode  20 	 EpLen 146 	 CaptureRate 1.000 	 Collisions 0 Time 321.346
+Seed  21 	 Episode  21 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 957.074
+Seed  22 	 Episode  22 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 997.175
+Seed  23 	 Episode  23 	 EpLen 113 	 CaptureRate 1.000 	 Collisions 0 Time 269.580
+Seed  24 	 Episode  24 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 1029.257
+Seed  25 	 Episode  25 	 EpLen 226 	 CaptureRate 1.000 	 Collisions 0 Time 451.173
+Seed  26 	 Episode  26 	 EpLen 500 	 CaptureRate 0.977 	 Collisions 0 Time 1001.858
+Seed  27 	 Episode  27 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 944.020
+Seed  28 	 Episode  28 	 EpLen 101 	 CaptureRate 1.000 	 Collisions 0 Time 244.860
+Seed  29 	 Episode  29 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 1069.578
+Seed  30 	 Episode  30 	 EpLen 500 	 CaptureRate 0.988 	 Collisions 0 Time 982.359
+Seed  31 	 Episode  31 	 EpLen 242 	 CaptureRate 1.000 	 Collisions 0 Time 503.694
+Seed  32 	 Episode  32 	 EpLen 66 	 CaptureRate 1.000 	 Collisions 0 Time 172.616
+Seed  33 	 Episode  33 	 EpLen 200 	 CaptureRate 1.000 	 Collisions 0 Time 418.530
+Seed  34 	 Episode  34 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 953.742
+Seed  35 	 Episode  35 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 1016.221
+Seed  36 	 Episode  36 	 EpLen 152 	 CaptureRate 1.000 	 Collisions 0 Time 338.578
+Seed  37 	 Episode  37 	 EpLen 122 	 CaptureRate 1.000 	 Collisions 0 Time 285.154
+Collision! ep_len, idx_predator, role, position: 100 859 searcher [30 24]
+Collision! ep_len, idx_predator, role, position: 101 859 searcher [31 24]
+Seed  38 	 Episode  38 	 EpLen 108 	 CaptureRate 1.000 	 Collisions 2 Time 255.565
+Collision! ep_len, idx_predator, role, position: 375 703 searcher [75 65]
+Seed  39 	 Episode  39 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 1 Time 953.894
+Collision! ep_len, idx_predator, role, position: 118 391 searcher [74 76]
+Collision! ep_len, idx_predator, role, position: 119 391 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 120 391 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 121 391 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 122 391 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 123 391 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 124 391 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 125 391 searcher [73 76]
+Collision! ep_len, idx_predator, role, position: 126 391 searcher [72 76]
+Collision! ep_len, idx_predator, role, position: 212 364 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 213 364 searcher [73 76]
+Collision! ep_len, idx_predator, role, position: 215 364 searcher [72 76]
+Collision! ep_len, idx_predator, role, position: 216 364 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 217 364 searcher [73 75]
+Collision! ep_len, idx_predator, role, position: 218 364 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 219 364 searcher [73 75]
+Collision! ep_len, idx_predator, role, position: 220 364 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 221 364 searcher [73 75]
+Collision! ep_len, idx_predator, role, position: 222 364 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 223 364 searcher [73 75]
+Collision! ep_len, idx_predator, role, position: 224 364 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 225 364 searcher [72 76]
+Collision! ep_len, idx_predator, role, position: 226 364 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 227 364 searcher [72 74]
+Collision! ep_len, idx_predator, role, position: 228 364 searcher [71 74]
+Collision! ep_len, idx_predator, role, position: 229 364 searcher [72 74]
+Collision! ep_len, idx_predator, role, position: 251 421 searcher [74 76]
+Collision! ep_len, idx_predator, role, position: 252 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 253 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 254 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 255 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 256 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 257 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 258 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 259 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 260 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 261 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 262 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 263 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 264 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 265 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 266 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 267 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 268 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 269 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 270 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 271 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 272 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 273 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 274 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 275 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 276 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 277 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 278 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 279 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 280 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 281 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 282 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 283 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 284 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 285 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 286 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 287 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 288 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 289 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 290 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 291 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 292 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 293 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 294 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 295 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 296 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 297 421 searcher [73 77]
+Collision! ep_len, idx_predator, role, position: 298 421 searcher [74 77]
+Collision! ep_len, idx_predator, role, position: 341 890 searcher [73 75]
+Collision! ep_len, idx_predator, role, position: 342 890 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 343 890 searcher [72 76]
+Collision! ep_len, idx_predator, role, position: 344 890 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 345 890 searcher [72 76]
+Collision! ep_len, idx_predator, role, position: 346 890 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 347 890 searcher [72 76]
+Collision! ep_len, idx_predator, role, position: 348 890 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 349 890 searcher [72 76]
+Collision! ep_len, idx_predator, role, position: 350 890 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 351 890 searcher [72 76]
+Collision! ep_len, idx_predator, role, position: 352 890 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 353 890 searcher [72 76]
+Collision! ep_len, idx_predator, role, position: 354 890 searcher [72 75]
+Collision! ep_len, idx_predator, role, position: 355 890 searcher [72 76]
+Seed  40 	 Episode  40 	 EpLen 396 	 CaptureRate 1.000 	 Collisions 89 Time 765.364
+Seed  41 	 Episode  41 	 EpLen 217 	 CaptureRate 1.000 	 Collisions 0 Time 458.413
+Seed  42 	 Episode  42 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 1013.788
+Seed  43 	 Episode  43 	 EpLen 175 	 CaptureRate 1.000 	 Collisions 0 Time 385.137
+Seed  44 	 Episode  44 	 EpLen 105 	 CaptureRate 1.000 	 Collisions 0 Time 242.107
+Seed  45 	 Episode  45 	 EpLen 107 	 CaptureRate 1.000 	 Collisions 0 Time 250.038
+Seed  46 	 Episode  46 	 EpLen 467 	 CaptureRate 1.000 	 Collisions 0 Time 913.082
+Seed  47 	 Episode  47 	 EpLen 137 	 CaptureRate 1.000 	 Collisions 0 Time 307.872
+Seed  48 	 Episode  48 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 985.327
+Seed  49 	 Episode  49 	 EpLen 105 	 CaptureRate 1.000 	 Collisions 0 Time 247.796
+Seed  50 	 Episode  50 	 EpLen 281 	 CaptureRate 1.000 	 Collisions 0 Time 571.650
+Seed  51 	 Episode  51 	 EpLen 74 	 CaptureRate 1.000 	 Collisions 0 Time 185.766
+Seed  52 	 Episode  52 	 EpLen 114 	 CaptureRate 1.000 	 Collisions 0 Time 281.393
+Seed  53 	 Episode  53 	 EpLen 325 	 CaptureRate 1.000 	 Collisions 0 Time 675.254
+Seed  54 	 Episode  54 	 EpLen 102 	 CaptureRate 1.000 	 Collisions 0 Time 240.742
+Seed  55 	 Episode  55 	 EpLen 61 	 CaptureRate 1.000 	 Collisions 0 Time 161.046
+Seed  56 	 Episode  56 	 EpLen 221 	 CaptureRate 1.000 	 Collisions 0 Time 452.263
+Seed  57 	 Episode  57 	 EpLen 93 	 CaptureRate 1.000 	 Collisions 0 Time 229.376
+Seed  58 	 Episode  58 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 1027.382
+Seed  59 	 Episode  59 	 EpLen 199 	 CaptureRate 1.000 	 Collisions 0 Time 421.294
+Seed  60 	 Episode  60 	 EpLen 122 	 CaptureRate 1.000 	 Collisions 0 Time 271.200
+Seed  61 	 Episode  61 	 EpLen 110 	 CaptureRate 1.000 	 Collisions 0 Time 256.884
+Seed  62 	 Episode  62 	 EpLen 175 	 CaptureRate 1.000 	 Collisions 0 Time 380.809
+Collision! ep_len, idx_predator, role, position: 53 472 searcher [73 76]
+Collision! ep_len, idx_predator, role, position: 54 472 searcher [73 75]
+Collision! ep_len, idx_predator, role, position: 55 472 searcher [72 75]
+Seed  63 	 Episode  63 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 3 Time 970.124
+Seed  64 	 Episode  64 	 EpLen 93 	 CaptureRate 1.000 	 Collisions 0 Time 220.285
+Seed  65 	 Episode  65 	 EpLen 215 	 CaptureRate 1.000 	 Collisions 0 Time 447.743
+Seed  66 	 Episode  66 	 EpLen 218 	 CaptureRate 1.000 	 Collisions 0 Time 446.736
+Seed  67 	 Episode  67 	 EpLen 78 	 CaptureRate 1.000 	 Collisions 0 Time 203.638
+Seed  68 	 Episode  68 	 EpLen 116 	 CaptureRate 1.000 	 Collisions 0 Time 270.764
+Seed  69 	 Episode  69 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 964.134
+Seed  70 	 Episode  70 	 EpLen 66 	 CaptureRate 1.000 	 Collisions 0 Time 174.924
+Seed  71 	 Episode  71 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 974.160
+Seed  72 	 Episode  72 	 EpLen 123 	 CaptureRate 1.000 	 Collisions 0 Time 279.425
+Seed  73 	 Episode  73 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 999.579
+Seed  74 	 Episode  74 	 EpLen 83 	 CaptureRate 1.000 	 Collisions 0 Time 202.815
+Seed  75 	 Episode  75 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 1014.746
+Seed  76 	 Episode  76 	 EpLen 500 	 CaptureRate 0.988 	 Collisions 0 Time 1004.246
+Seed  77 	 Episode  77 	 EpLen 152 	 CaptureRate 1.000 	 Collisions 0 Time 333.153
+Seed  78 	 Episode  78 	 EpLen 117 	 CaptureRate 1.000 	 Collisions 0 Time 273.987
+Seed  79 	 Episode  79 	 EpLen 424 	 CaptureRate 1.000 	 Collisions 0 Time 828.624
+Seed  80 	 Episode  80 	 EpLen 100 	 CaptureRate 1.000 	 Collisions 0 Time 238.752
+Seed  81 	 Episode  81 	 EpLen 287 	 CaptureRate 1.000 	 Collisions 0 Time 595.371
+Seed  82 	 Episode  82 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 980.269
+Seed  83 	 Episode  83 	 EpLen 207 	 CaptureRate 1.000 	 Collisions 0 Time 436.571
+Seed  84 	 Episode  84 	 EpLen 127 	 CaptureRate 1.000 	 Collisions 0 Time 312.579
+Seed  85 	 Episode  85 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 1049.040
+Seed  86 	 Episode  86 	 EpLen 139 	 CaptureRate 1.000 	 Collisions 0 Time 350.532
+Seed  87 	 Episode  87 	 EpLen 442 	 CaptureRate 1.000 	 Collisions 0 Time 907.691
+Seed  88 	 Episode  88 	 EpLen 72 	 CaptureRate 1.000 	 Collisions 0 Time 196.051
+Seed  89 	 Episode  89 	 EpLen 384 	 CaptureRate 1.000 	 Collisions 0 Time 813.032
+Seed  90 	 Episode  90 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 1057.265
+Seed  91 	 Episode  91 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 1147.480
+Seed  92 	 Episode  92 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 1115.571
+Seed  93 	 Episode  93 	 EpLen 211 	 CaptureRate 1.000 	 Collisions 0 Time 490.360
+Seed  94 	 Episode  94 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 1078.820
+Seed  95 	 Episode  95 	 EpLen 230 	 CaptureRate 1.000 	 Collisions 0 Time 511.697
+Seed  96 	 Episode  96 	 EpLen 132 	 CaptureRate 1.000 	 Collisions 0 Time 327.478
+Seed  97 	 Episode  97 	 EpLen 141 	 CaptureRate 1.000 	 Collisions 0 Time 332.798
+Seed  98 	 Episode  98 	 EpLen 114 	 CaptureRate 1.000 	 Collisions 0 Time 297.609
+Seed  99 	 Episode  99 	 EpLen 146 	 CaptureRate 1.000 	 Collisions 0 Time 373.048
+Write to file: data/sop_80_80_1024_256_.txt
+Write to file: data/sop_80_80_1024_256_statistical_result.txt
+Command: python run_sop.py  --x_size=80 --y_size=80 --n_pursuers=2048 --n_targets=512 --n_episodes=100
+Seed   0 	 Episode   0 	 EpLen 500 	 CaptureRate 0.994 	 Collisions 0 Time 3473.739
+Seed   1 	 Episode   1 	 EpLen 500 	 CaptureRate 0.994 	 Collisions 0 Time 3607.657
+Seed   2 	 Episode   2 	 EpLen 63 	 CaptureRate 1.000 	 Collisions 0 Time 547.572
+Seed   3 	 Episode   3 	 EpLen 500 	 CaptureRate 0.994 	 Collisions 0 Time 3508.559
+Seed   4 	 Episode   4 	 EpLen 410 	 CaptureRate 1.000 	 Collisions 0 Time 2882.313
+Seed   5 	 Episode   5 	 EpLen 500 	 CaptureRate 0.990 	 Collisions 0 Time 3446.801
+Seed   6 	 Episode   6 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3369.345
+Seed   7 	 Episode   7 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3426.271
+Seed   8 	 Episode   8 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3390.381
+Seed   9 	 Episode   9 	 EpLen 500 	 CaptureRate 0.990 	 Collisions 0 Time 3404.044
+Seed  10 	 Episode  10 	 EpLen 386 	 CaptureRate 1.000 	 Collisions 0 Time 2650.155
+Seed  11 	 Episode  11 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3381.691
+Seed  12 	 Episode  12 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3342.572
+Seed  13 	 Episode  13 	 EpLen 500 	 CaptureRate 0.998 	 Collisions 0 Time 3419.683
+Seed  14 	 Episode  14 	 EpLen 113 	 CaptureRate 1.000 	 Collisions 0 Time 858.580
+Seed  15 	 Episode  15 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3441.262
+Seed  16 	 Episode  16 	 EpLen 500 	 CaptureRate 0.998 	 Collisions 0 Time 3390.055
+Seed  17 	 Episode  17 	 EpLen 500 	 CaptureRate 0.990 	 Collisions 0 Time 3441.583
+Seed  18 	 Episode  18 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3346.010
+Seed  19 	 Episode  19 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3453.145
+Seed  20 	 Episode  20 	 EpLen 109 	 CaptureRate 1.000 	 Collisions 0 Time 827.695
+Seed  21 	 Episode  21 	 EpLen 500 	 CaptureRate 0.994 	 Collisions 0 Time 3428.144
+Seed  22 	 Episode  22 	 EpLen 500 	 CaptureRate 0.994 	 Collisions 0 Time 3485.295
+Seed  23 	 Episode  23 	 EpLen 500 	 CaptureRate 0.990 	 Collisions 0 Time 3524.614
+Seed  24 	 Episode  24 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3486.418
+Seed  25 	 Episode  25 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3453.012
+Seed  26 	 Episode  26 	 EpLen 500 	 CaptureRate 0.998 	 Collisions 0 Time 3406.711
+Collision! ep_len, idx_predator, role, position: 116 2011 searcher [72  0]
+Collision! ep_len, idx_predator, role, position: 466 1599 searcher [70  0]
+Collision! ep_len, idx_predator, role, position: 467 1599 searcher [71  0]
+Collision! ep_len, idx_predator, role, position: 468 1599 searcher [70  0]
+Collision! ep_len, idx_predator, role, position: 469 1599 searcher [71  0]
+Collision! ep_len, idx_predator, role, position: 470 1599 searcher [70  0]
+Seed  27 	 Episode  27 	 EpLen 500 	 CaptureRate 0.998 	 Collisions 6 Time 3376.040
+Seed  28 	 Episode  28 	 EpLen 500 	 CaptureRate 0.994 	 Collisions 0 Time 3498.687
+Seed  29 	 Episode  29 	 EpLen 500 	 CaptureRate 0.998 	 Collisions 0 Time 3425.840
+Seed  30 	 Episode  30 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3419.447
+Seed  31 	 Episode  31 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3377.676
+Seed  32 	 Episode  32 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3429.366
+Seed  33 	 Episode  33 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3422.929
+Seed  34 	 Episode  34 	 EpLen 500 	 CaptureRate 0.990 	 Collisions 0 Time 3498.091
+Seed  35 	 Episode  35 	 EpLen 500 	 CaptureRate 0.994 	 Collisions 0 Time 3424.879
+Seed  36 	 Episode  36 	 EpLen 500 	 CaptureRate 0.998 	 Collisions 0 Time 3481.078
+Seed  37 	 Episode  37 	 EpLen 500 	 CaptureRate 0.998 	 Collisions 0 Time 3407.161
+Seed  38 	 Episode  38 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3458.298
+Seed  39 	 Episode  39 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3435.214
+Seed  40 	 Episode  40 	 EpLen 84 	 CaptureRate 1.000 	 Collisions 0 Time 652.066
+Seed  41 	 Episode  41 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3492.375
+Seed  42 	 Episode  42 	 EpLen 137 	 CaptureRate 1.000 	 Collisions 0 Time 1009.777
+Collision! ep_len, idx_predator, role, position: 6 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 7 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 8 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 9 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 10 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 11 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 12 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 13 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 14 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 15 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 16 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 17 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 18 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 19 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 20 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 21 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 22 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 23 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 24 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 25 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 26 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 27 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 28 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 29 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 30 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 31 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 32 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 33 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 34 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 35 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 36 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 37 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 38 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 39 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 40 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 41 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 42 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 43 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 44 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 45 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 46 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 47 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 48 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 49 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 50 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 51 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 52 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 53 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 54 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 55 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 56 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 57 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 58 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 59 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 60 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 61 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 62 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 63 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 64 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 65 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 66 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 67 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 68 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 69 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 70 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 71 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 72 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 73 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 74 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 75 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 76 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 77 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 78 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 79 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 80 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 81 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 82 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 83 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 84 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 85 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 86 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 87 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 88 908 searcher [ 2 23]
+Collision! ep_len, idx_predator, role, position: 89 908 searcher [ 3 23]
+Collision! ep_len, idx_predator, role, position: 90 908 searcher [ 2 23]
+Seed  43 	 Episode  43 	 EpLen 91 	 CaptureRate 1.000 	 Collisions 85 Time 725.223
+Seed  44 	 Episode  44 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3438.318
+Collision! ep_len, idx_predator, role, position: 9 1347 searcher [ 4 47]
+Collision! ep_len, idx_predator, role, position: 10 1347 searcher [ 4 48]
+Seed  45 	 Episode  45 	 EpLen 500 	 CaptureRate 0.994 	 Collisions 2 Time 3444.028
+Seed  46 	 Episode  46 	 EpLen 95 	 CaptureRate 1.000 	 Collisions 0 Time 739.275
+Seed  47 	 Episode  47 	 EpLen 500 	 CaptureRate 0.998 	 Collisions 0 Time 3564.298
+Seed  48 	 Episode  48 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 4047.996
+Seed  49 	 Episode  49 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3582.622
+Seed  50 	 Episode  50 	 EpLen 200 	 CaptureRate 1.000 	 Collisions 0 Time 1462.036
+Seed  51 	 Episode  51 	 EpLen 106 	 CaptureRate 1.000 	 Collisions 0 Time 839.671
+Seed  52 	 Episode  52 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3893.668
+Seed  53 	 Episode  53 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3953.252
+Seed  54 	 Episode  54 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3917.933
+Seed  55 	 Episode  55 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3764.386
+Seed  56 	 Episode  56 	 EpLen 55 	 CaptureRate 1.000 	 Collisions 0 Time 523.904
+Seed  57 	 Episode  57 	 EpLen 80 	 CaptureRate 1.000 	 Collisions 0 Time 691.734
+Seed  58 	 Episode  58 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3866.099
+Seed  59 	 Episode  59 	 EpLen 500 	 CaptureRate 0.988 	 Collisions 0 Time 3684.355
+Seed  60 	 Episode  60 	 EpLen 500 	 CaptureRate 0.994 	 Collisions 0 Time 3583.900
+Seed  61 	 Episode  61 	 EpLen 500 	 CaptureRate 0.994 	 Collisions 0 Time 3421.701
+Seed  62 	 Episode  62 	 EpLen 500 	 CaptureRate 0.990 	 Collisions 0 Time 3510.064
+Seed  63 	 Episode  63 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3387.323
+Seed  64 	 Episode  64 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3439.479
+Seed  65 	 Episode  65 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3450.455
+Seed  66 	 Episode  66 	 EpLen 88 	 CaptureRate 1.000 	 Collisions 0 Time 661.558
+Seed  67 	 Episode  67 	 EpLen 500 	 CaptureRate 0.998 	 Collisions 0 Time 3259.129
+Seed  68 	 Episode  68 	 EpLen 500 	 CaptureRate 0.994 	 Collisions 0 Time 3289.812
+Seed  69 	 Episode  69 	 EpLen 179 	 CaptureRate 1.000 	 Collisions 0 Time 1237.172
+Seed  70 	 Episode  70 	 EpLen 500 	 CaptureRate 0.998 	 Collisions 0 Time 3221.812
+Seed  71 	 Episode  71 	 EpLen 500 	 CaptureRate 0.998 	 Collisions 0 Time 3271.286
+Seed  72 	 Episode  72 	 EpLen 500 	 CaptureRate 0.998 	 Collisions 0 Time 3261.290
+Seed  73 	 Episode  73 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3275.531
+Seed  74 	 Episode  74 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3276.768
+Seed  75 	 Episode  75 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3268.782
+Seed  76 	 Episode  76 	 EpLen 500 	 CaptureRate 0.994 	 Collisions 0 Time 3505.039
+Seed  77 	 Episode  77 	 EpLen 500 	 CaptureRate 0.986 	 Collisions 0 Time 4155.849
+Seed  78 	 Episode  78 	 EpLen 500 	 CaptureRate 0.998 	 Collisions 0 Time 3772.252
+Seed  79 	 Episode  79 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3946.662
+Seed  80 	 Episode  80 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3651.188
+Seed  81 	 Episode  81 	 EpLen 500 	 CaptureRate 0.994 	 Collisions 0 Time 3816.682
+Seed  82 	 Episode  82 	 EpLen 500 	 CaptureRate 0.988 	 Collisions 0 Time 3651.899
+Seed  83 	 Episode  83 	 EpLen 500 	 CaptureRate 0.994 	 Collisions 0 Time 3488.519
+Seed  84 	 Episode  84 	 EpLen 79 	 CaptureRate 1.000 	 Collisions 0 Time 643.489
+Seed  85 	 Episode  85 	 EpLen 113 	 CaptureRate 1.000 	 Collisions 0 Time 858.243
+Seed  86 	 Episode  86 	 EpLen 500 	 CaptureRate 0.994 	 Collisions 0 Time 3492.539
+Seed  87 	 Episode  87 	 EpLen 71 	 CaptureRate 1.000 	 Collisions 0 Time 561.533
+Seed  88 	 Episode  88 	 EpLen 500 	 CaptureRate 0.986 	 Collisions 0 Time 3400.768
+Seed  89 	 Episode  89 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 4003.147
+Seed  90 	 Episode  90 	 EpLen 500 	 CaptureRate 0.994 	 Collisions 0 Time 3450.835
+Seed  91 	 Episode  91 	 EpLen 500 	 CaptureRate 0.994 	 Collisions 0 Time 3333.654
+Seed  92 	 Episode  92 	 EpLen 500 	 CaptureRate 0.994 	 Collisions 0 Time 3337.872
+Seed  93 	 Episode  93 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3295.422
+Seed  94 	 Episode  94 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3267.985
+Seed  95 	 Episode  95 	 EpLen 500 	 CaptureRate 0.994 	 Collisions 0 Time 3330.780
+Seed  96 	 Episode  96 	 EpLen 500 	 CaptureRate 0.998 	 Collisions 0 Time 3300.464
+Seed  97 	 Episode  97 	 EpLen 500 	 CaptureRate 0.998 	 Collisions 0 Time 3223.475
+Seed  98 	 Episode  98 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3326.888
+Seed  99 	 Episode  99 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3313.690
+Write to file: data/sop_80_80_2048_512_.txt
+Write to file: data/sop_80_80_2048_512_statistical_result.txt
+DONE!
+                                                                                
+lijunsun@LJS-MacBook-Pro ~/Workspace/multiple_preys_pursuit_pomg      [7:03:35]
+(myenv37) > $                                                                  

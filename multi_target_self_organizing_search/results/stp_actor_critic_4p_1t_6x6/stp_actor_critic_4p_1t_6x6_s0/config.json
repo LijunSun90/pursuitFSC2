@@ -1,0 +1,6 @@
+{
+    "Namespace(cpu=6, epochs=10000, exp_name='stp_actor_critic_4p_1t_6x6_reward_10_1e_4', gamma=0.99, lam=0.97, max_ep_len=500, n_pursuers=4, n_targets=1, pi_lr=0.0001, save_freq=100, seed=0, steps_per_epoch=500, train_v_iters=80, vf_lr=0.0001)":	{
+        "null":	null
+    },
+    "exp_name":	"stp_actor_critic_4p_1t_6x6_reward_10_1e_4"
+}

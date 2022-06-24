@@ -1,0 +1,6 @@
+{
+    "Namespace(cpu=6, epochs=10000, exp_name='sos_actor_critic_p', gamma=0.99, lam=0.97, max_ep_len=500, n_pursuers=8, n_targets=50, pi_lr=0.0003, save_freq=100, seed=8, steps_per_epoch=500, train_v_iters=80, vf_lr=0.001)":	{
+        "null":	null
+    },
+    "exp_name":	"sos_actor_critic_p"
+}

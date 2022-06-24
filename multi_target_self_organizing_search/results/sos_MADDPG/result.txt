@@ -1,0 +1,10 @@
+Experiment ID: 0 Folder: ./results/sos_MADDPG/learning_curves_s6
+Experiment ID: 1 Folder: ./results/sos_MADDPG/learning_curves_s1
+Experiment ID: 2 Folder: ./results/sos_MADDPG/learning_curves_s8
+Experiment ID: 3 Folder: ./results/sos_MADDPG/learning_curves_s9
+Experiment ID: 4 Folder: ./results/sos_MADDPG/learning_curves_s0
+Experiment ID: 5 Folder: ./results/sos_MADDPG/learning_curves_s7
+Experiment ID: 6 Folder: ./results/sos_MADDPG/learning_curves_s2
+Experiment ID: 7 Folder: ./results/sos_MADDPG/learning_curves_s5
+Experiment ID: 8 Folder: ./results/sos_MADDPG/learning_curves_s4
+Experiment ID: 9 Folder: ./results/sos_MADDPG/learning_curves_s3

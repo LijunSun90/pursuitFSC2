@@ -1,0 +1,335 @@
+/Users/lijunsun/anaconda3/envs/myenv37/bin/python /Users/lijunsun/Workspace/multiple_preys_pursuit_pomg/test_sop_statistical_results.py
+Command: python run_sop.py  --x_size=40 --y_size=40 --n_pursuers=256 --n_targets=64 --n_episodes=100
+Seed   0 	 Episode   0 	 EpLen 76 	 CaptureRate 1.000 	 Collisions 0 Time 59.523
+Seed   1 	 Episode   1 	 EpLen 64 	 CaptureRate 1.000 	 Collisions 0 Time 46.400
+Seed   2 	 Episode   2 	 EpLen 37 	 CaptureRate 1.000 	 Collisions 0 Time 32.103
+Seed   3 	 Episode   3 	 EpLen 55 	 CaptureRate 1.000 	 Collisions 0 Time 46.285
+Seed   4 	 Episode   4 	 EpLen 46 	 CaptureRate 1.000 	 Collisions 0 Time 37.379
+Seed   5 	 Episode   5 	 EpLen 79 	 CaptureRate 1.000 	 Collisions 0 Time 54.285
+Seed   6 	 Episode   6 	 EpLen 91 	 CaptureRate 1.000 	 Collisions 0 Time 58.900
+Seed   7 	 Episode   7 	 EpLen 72 	 CaptureRate 1.000 	 Collisions 0 Time 49.604
+Seed   8 	 Episode   8 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 283.040
+Seed   9 	 Episode   9 	 EpLen 53 	 CaptureRate 1.000 	 Collisions 0 Time 40.790
+Seed  10 	 Episode  10 	 EpLen 165 	 CaptureRate 1.000 	 Collisions 0 Time 88.913
+Seed  11 	 Episode  11 	 EpLen 74 	 CaptureRate 1.000 	 Collisions 0 Time 50.587
+Seed  12 	 Episode  12 	 EpLen 69 	 CaptureRate 1.000 	 Collisions 0 Time 46.394
+Seed  13 	 Episode  13 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 259.655
+Seed  14 	 Episode  14 	 EpLen 88 	 CaptureRate 1.000 	 Collisions 0 Time 55.638
+Seed  15 	 Episode  15 	 EpLen 45 	 CaptureRate 1.000 	 Collisions 0 Time 35.599
+Seed  16 	 Episode  16 	 EpLen 65 	 CaptureRate 1.000 	 Collisions 0 Time 43.411
+Seed  17 	 Episode  17 	 EpLen 105 	 CaptureRate 1.000 	 Collisions 0 Time 59.109
+Seed  18 	 Episode  18 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 256.913
+Seed  19 	 Episode  19 	 EpLen 44 	 CaptureRate 1.000 	 Collisions 0 Time 33.521
+Seed  20 	 Episode  20 	 EpLen 53 	 CaptureRate 1.000 	 Collisions 0 Time 39.558
+Seed  21 	 Episode  21 	 EpLen 117 	 CaptureRate 1.000 	 Collisions 0 Time 78.072
+Seed  22 	 Episode  22 	 EpLen 45 	 CaptureRate 1.000 	 Collisions 0 Time 36.894
+Seed  23 	 Episode  23 	 EpLen 33 	 CaptureRate 1.000 	 Collisions 0 Time 27.933
+Seed  24 	 Episode  24 	 EpLen 43 	 CaptureRate 1.000 	 Collisions 0 Time 34.803
+Seed  25 	 Episode  25 	 EpLen 64 	 CaptureRate 1.000 	 Collisions 0 Time 43.613
+Seed  26 	 Episode  26 	 EpLen 284 	 CaptureRate 1.000 	 Collisions 0 Time 155.777
+Seed  27 	 Episode  27 	 EpLen 74 	 CaptureRate 1.000 	 Collisions 0 Time 52.115
+Seed  28 	 Episode  28 	 EpLen 50 	 CaptureRate 1.000 	 Collisions 0 Time 34.887
+Seed  29 	 Episode  29 	 EpLen 90 	 CaptureRate 1.000 	 Collisions 0 Time 53.251
+Seed  30 	 Episode  30 	 EpLen 83 	 CaptureRate 1.000 	 Collisions 0 Time 58.030
+Seed  31 	 Episode  31 	 EpLen 102 	 CaptureRate 1.000 	 Collisions 0 Time 67.193
+Seed  32 	 Episode  32 	 EpLen 58 	 CaptureRate 1.000 	 Collisions 0 Time 41.710
+Seed  33 	 Episode  33 	 EpLen 83 	 CaptureRate 1.000 	 Collisions 0 Time 57.773
+Seed  34 	 Episode  34 	 EpLen 63 	 CaptureRate 1.000 	 Collisions 0 Time 46.393
+Seed  35 	 Episode  35 	 EpLen 41 	 CaptureRate 1.000 	 Collisions 0 Time 31.183
+Seed  36 	 Episode  36 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 282.710
+Seed  37 	 Episode  37 	 EpLen 81 	 CaptureRate 1.000 	 Collisions 0 Time 59.357
+Seed  38 	 Episode  38 	 EpLen 133 	 CaptureRate 1.000 	 Collisions 0 Time 78.601
+Seed  39 	 Episode  39 	 EpLen 40 	 CaptureRate 1.000 	 Collisions 0 Time 31.554
+Seed  40 	 Episode  40 	 EpLen 43 	 CaptureRate 1.000 	 Collisions 0 Time 30.855
+Seed  41 	 Episode  41 	 EpLen 68 	 CaptureRate 1.000 	 Collisions 0 Time 45.863
+Seed  42 	 Episode  42 	 EpLen 77 	 CaptureRate 1.000 	 Collisions 0 Time 49.160
+Seed  43 	 Episode  43 	 EpLen 123 	 CaptureRate 1.000 	 Collisions 0 Time 75.319
+Seed  44 	 Episode  44 	 EpLen 53 	 CaptureRate 1.000 	 Collisions 0 Time 40.402
+Seed  45 	 Episode  45 	 EpLen 67 	 CaptureRate 1.000 	 Collisions 0 Time 48.027
+Seed  46 	 Episode  46 	 EpLen 53 	 CaptureRate 1.000 	 Collisions 0 Time 37.923
+Seed  47 	 Episode  47 	 EpLen 127 	 CaptureRate 1.000 	 Collisions 0 Time 69.094
+Seed  48 	 Episode  48 	 EpLen 64 	 CaptureRate 1.000 	 Collisions 0 Time 45.653
+Seed  49 	 Episode  49 	 EpLen 63 	 CaptureRate 1.000 	 Collisions 0 Time 43.779
+Seed  50 	 Episode  50 	 EpLen 100 	 CaptureRate 1.000 	 Collisions 0 Time 60.044
+Seed  51 	 Episode  51 	 EpLen 256 	 CaptureRate 1.000 	 Collisions 0 Time 134.441
+Seed  52 	 Episode  52 	 EpLen 146 	 CaptureRate 1.000 	 Collisions 0 Time 88.325
+Seed  53 	 Episode  53 	 EpLen 65 	 CaptureRate 1.000 	 Collisions 0 Time 43.042
+Seed  54 	 Episode  54 	 EpLen 155 	 CaptureRate 1.000 	 Collisions 0 Time 90.171
+Seed  55 	 Episode  55 	 EpLen 104 	 CaptureRate 1.000 	 Collisions 0 Time 72.098
+Seed  56 	 Episode  56 	 EpLen 72 	 CaptureRate 1.000 	 Collisions 0 Time 52.508
+Seed  57 	 Episode  57 	 EpLen 73 	 CaptureRate 1.000 	 Collisions 0 Time 51.123
+Seed  58 	 Episode  58 	 EpLen 53 	 CaptureRate 1.000 	 Collisions 0 Time 39.420
+Seed  59 	 Episode  59 	 EpLen 276 	 CaptureRate 1.000 	 Collisions 0 Time 148.679
+Seed  60 	 Episode  60 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 254.157
+Seed  61 	 Episode  61 	 EpLen 234 	 CaptureRate 1.000 	 Collisions 0 Time 121.984
+Seed  62 	 Episode  62 	 EpLen 65 	 CaptureRate 1.000 	 Collisions 0 Time 42.200
+Seed  63 	 Episode  63 	 EpLen 61 	 CaptureRate 1.000 	 Collisions 0 Time 40.787
+Seed  64 	 Episode  64 	 EpLen 64 	 CaptureRate 1.000 	 Collisions 0 Time 42.412
+Seed  65 	 Episode  65 	 EpLen 37 	 CaptureRate 1.000 	 Collisions 0 Time 30.599
+Seed  66 	 Episode  66 	 EpLen 43 	 CaptureRate 1.000 	 Collisions 0 Time 33.149
+Seed  67 	 Episode  67 	 EpLen 65 	 CaptureRate 1.000 	 Collisions 0 Time 41.762
+Seed  68 	 Episode  68 	 EpLen 58 	 CaptureRate 1.000 	 Collisions 0 Time 47.314
+Seed  69 	 Episode  69 	 EpLen 49 	 CaptureRate 1.000 	 Collisions 0 Time 37.217
+Seed  70 	 Episode  70 	 EpLen 39 	 CaptureRate 1.000 	 Collisions 0 Time 31.205
+Seed  71 	 Episode  71 	 EpLen 69 	 CaptureRate 1.000 	 Collisions 0 Time 47.891
+Seed  72 	 Episode  72 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 285.281
+Seed  73 	 Episode  73 	 EpLen 72 	 CaptureRate 1.000 	 Collisions 0 Time 49.481
+Seed  74 	 Episode  74 	 EpLen 61 	 CaptureRate 1.000 	 Collisions 0 Time 42.166
+Seed  75 	 Episode  75 	 EpLen 69 	 CaptureRate 1.000 	 Collisions 0 Time 45.049
+Seed  76 	 Episode  76 	 EpLen 45 	 CaptureRate 1.000 	 Collisions 0 Time 33.262
+Seed  77 	 Episode  77 	 EpLen 78 	 CaptureRate 1.000 	 Collisions 0 Time 55.109
+Seed  78 	 Episode  78 	 EpLen 91 	 CaptureRate 1.000 	 Collisions 0 Time 59.003
+Seed  79 	 Episode  79 	 EpLen 73 	 CaptureRate 1.000 	 Collisions 0 Time 50.136
+Seed  80 	 Episode  80 	 EpLen 68 	 CaptureRate 1.000 	 Collisions 0 Time 51.858
+Seed  81 	 Episode  81 	 EpLen 55 	 CaptureRate 1.000 	 Collisions 0 Time 41.162
+Seed  82 	 Episode  82 	 EpLen 30 	 CaptureRate 1.000 	 Collisions 0 Time 25.827
+Seed  83 	 Episode  83 	 EpLen 101 	 CaptureRate 1.000 	 Collisions 0 Time 64.419
+Seed  84 	 Episode  84 	 EpLen 184 	 CaptureRate 1.000 	 Collisions 0 Time 107.153
+Seed  85 	 Episode  85 	 EpLen 267 	 CaptureRate 1.000 	 Collisions 0 Time 146.924
+Seed  86 	 Episode  86 	 EpLen 34 	 CaptureRate 1.000 	 Collisions 0 Time 29.253
+Seed  87 	 Episode  87 	 EpLen 65 	 CaptureRate 1.000 	 Collisions 0 Time 44.251
+Seed  88 	 Episode  88 	 EpLen 278 	 CaptureRate 1.000 	 Collisions 0 Time 147.717
+Seed  89 	 Episode  89 	 EpLen 45 	 CaptureRate 1.000 	 Collisions 0 Time 36.490
+Seed  90 	 Episode  90 	 EpLen 89 	 CaptureRate 1.000 	 Collisions 0 Time 73.615
+Seed  91 	 Episode  91 	 EpLen 52 	 CaptureRate 1.000 	 Collisions 0 Time 43.246
+Seed  92 	 Episode  92 	 EpLen 35 	 CaptureRate 1.000 	 Collisions 0 Time 32.423
+Seed  93 	 Episode  93 	 EpLen 153 	 CaptureRate 1.000 	 Collisions 0 Time 92.087
+Seed  94 	 Episode  94 	 EpLen 37 	 CaptureRate 1.000 	 Collisions 0 Time 30.756
+Seed  95 	 Episode  95 	 EpLen 62 	 CaptureRate 1.000 	 Collisions 0 Time 44.653
+Seed  96 	 Episode  96 	 EpLen 49 	 CaptureRate 1.000 	 Collisions 0 Time 35.365
+Seed  97 	 Episode  97 	 EpLen 46 	 CaptureRate 1.000 	 Collisions 0 Time 38.048
+Seed  98 	 Episode  98 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 243.097
+Seed  99 	 Episode  99 	 EpLen 57 	 CaptureRate 1.000 	 Collisions 0 Time 44.003
+Write to file: data/sop_40_40_256_64_.txt
+Write to file: data/sop_40_40_256_64_statistical_result.txt
+Command: python run_sop.py  --x_size=40 --y_size=40 --n_pursuers=512 --n_targets=128 --n_episodes=100
+Seed   0 	 Episode   0 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 863.568
+Seed   1 	 Episode   1 	 EpLen 27 	 CaptureRate 1.000 	 Collisions 0 Time 67.829
+Seed   2 	 Episode   2 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 892.467
+Seed   3 	 Episode   3 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 859.106
+Seed   4 	 Episode   4 	 EpLen 39 	 CaptureRate 1.000 	 Collisions 0 Time 85.870
+Seed   5 	 Episode   5 	 EpLen 22 	 CaptureRate 1.000 	 Collisions 0 Time 63.312
+Seed   6 	 Episode   6 	 EpLen 41 	 CaptureRate 1.000 	 Collisions 0 Time 102.628
+Seed   7 	 Episode   7 	 EpLen 96 	 CaptureRate 1.000 	 Collisions 0 Time 192.581
+Seed   8 	 Episode   8 	 EpLen 32 	 CaptureRate 1.000 	 Collisions 0 Time 81.801
+Seed   9 	 Episode   9 	 EpLen 80 	 CaptureRate 1.000 	 Collisions 0 Time 191.119
+Seed  10 	 Episode  10 	 EpLen 44 	 CaptureRate 1.000 	 Collisions 0 Time 100.726
+Seed  11 	 Episode  11 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 920.156
+Seed  12 	 Episode  12 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 925.747
+Seed  13 	 Episode  13 	 EpLen 31 	 CaptureRate 1.000 	 Collisions 0 Time 86.662
+Seed  14 	 Episode  14 	 EpLen 90 	 CaptureRate 1.000 	 Collisions 0 Time 191.576
+Seed  15 	 Episode  15 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 937.707
+Seed  16 	 Episode  16 	 EpLen 80 	 CaptureRate 1.000 	 Collisions 0 Time 152.034
+Seed  17 	 Episode  17 	 EpLen 188 	 CaptureRate 1.000 	 Collisions 0 Time 337.884
+Seed  18 	 Episode  18 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 855.294
+Seed  19 	 Episode  19 	 EpLen 25 	 CaptureRate 1.000 	 Collisions 0 Time 67.375
+Seed  20 	 Episode  20 	 EpLen 138 	 CaptureRate 1.000 	 Collisions 0 Time 262.301
+Seed  21 	 Episode  21 	 EpLen 70 	 CaptureRate 1.000 	 Collisions 0 Time 135.065
+Seed  22 	 Episode  22 	 EpLen 270 	 CaptureRate 1.000 	 Collisions 0 Time 471.774
+Seed  23 	 Episode  23 	 EpLen 52 	 CaptureRate 1.000 	 Collisions 0 Time 108.275
+Seed  24 	 Episode  24 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 904.409
+Seed  25 	 Episode  25 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 841.989
+Seed  26 	 Episode  26 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 793.641
+Seed  27 	 Episode  27 	 EpLen 82 	 CaptureRate 1.000 	 Collisions 0 Time 151.961
+Seed  28 	 Episode  28 	 EpLen 100 	 CaptureRate 1.000 	 Collisions 0 Time 177.068
+Seed  29 	 Episode  29 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 815.538
+Seed  30 	 Episode  30 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 833.339
+Seed  31 	 Episode  31 	 EpLen 31 	 CaptureRate 1.000 	 Collisions 0 Time 88.640
+Seed  32 	 Episode  32 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 965.214
+Seed  33 	 Episode  33 	 EpLen 38 	 CaptureRate 1.000 	 Collisions 0 Time 90.402
+Seed  34 	 Episode  34 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 948.279
+Seed  35 	 Episode  35 	 EpLen 38 	 CaptureRate 1.000 	 Collisions 0 Time 92.880
+Seed  36 	 Episode  36 	 EpLen 500 	 CaptureRate 0.969 	 Collisions 0 Time 960.640
+Seed  37 	 Episode  37 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 868.169
+Seed  38 	 Episode  38 	 EpLen 122 	 CaptureRate 1.000 	 Collisions 0 Time 211.480
+Seed  39 	 Episode  39 	 EpLen 43 	 CaptureRate 1.000 	 Collisions 0 Time 92.930
+Seed  40 	 Episode  40 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 828.918
+Seed  41 	 Episode  41 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 858.680
+Seed  42 	 Episode  42 	 EpLen 55 	 CaptureRate 1.000 	 Collisions 0 Time 118.251
+Seed  43 	 Episode  43 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 893.160
+Seed  44 	 Episode  44 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 810.665
+Seed  45 	 Episode  45 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 836.698
+Seed  46 	 Episode  46 	 EpLen 62 	 CaptureRate 1.000 	 Collisions 0 Time 119.486
+Seed  47 	 Episode  47 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 852.324
+Seed  48 	 Episode  48 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 753.805
+Seed  49 	 Episode  49 	 EpLen 46 	 CaptureRate 1.000 	 Collisions 0 Time 92.544
+Seed  50 	 Episode  50 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 797.987
+Seed  51 	 Episode  51 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 792.287
+Seed  52 	 Episode  52 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 793.081
+Seed  53 	 Episode  53 	 EpLen 131 	 CaptureRate 1.000 	 Collisions 0 Time 233.547
+Seed  54 	 Episode  54 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 783.211
+Seed  55 	 Episode  55 	 EpLen 92 	 CaptureRate 1.000 	 Collisions 0 Time 157.467
+Seed  56 	 Episode  56 	 EpLen 26 	 CaptureRate 1.000 	 Collisions 0 Time 63.638
+Seed  57 	 Episode  57 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 781.312
+Seed  58 	 Episode  58 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 784.954
+Seed  59 	 Episode  59 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 833.382
+Collision! ep_len, idx_predator, role, position: 14 450 searcher [6 4]
+Collision! ep_len, idx_predator, role, position: 15 450 searcher [6 5]
+Collision! ep_len, idx_predator, role, position: 16 450 searcher [6 4]
+Collision! ep_len, idx_predator, role, position: 17 450 searcher [6 5]
+Collision! ep_len, idx_predator, role, position: 18 450 searcher [7 5]
+Collision! ep_len, idx_predator, role, position: 19 450 searcher [6 5]
+Collision! ep_len, idx_predator, role, position: 20 450 searcher [7 5]
+Collision! ep_len, idx_predator, role, position: 21 450 searcher [6 5]
+Collision! ep_len, idx_predator, role, position: 22 450 searcher [7 5]
+Collision! ep_len, idx_predator, role, position: 23 450 searcher [6 5]
+Collision! ep_len, idx_predator, role, position: 24 450 searcher [7 5]
+Collision! ep_len, idx_predator, role, position: 25 450 searcher [6 5]
+Collision! ep_len, idx_predator, role, position: 26 450 searcher [7 5]
+Seed  60 	 Episode  60 	 EpLen 27 	 CaptureRate 1.000 	 Collisions 13 Time 64.220
+Seed  61 	 Episode  61 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 796.021
+Seed  62 	 Episode  62 	 EpLen 106 	 CaptureRate 1.000 	 Collisions 0 Time 190.015
+Seed  63 	 Episode  63 	 EpLen 497 	 CaptureRate 1.000 	 Collisions 0 Time 836.934
+Seed  64 	 Episode  64 	 EpLen 33 	 CaptureRate 1.000 	 Collisions 0 Time 75.511
+Seed  65 	 Episode  65 	 EpLen 28 	 CaptureRate 1.000 	 Collisions 0 Time 67.084
+Seed  66 	 Episode  66 	 EpLen 29 	 CaptureRate 1.000 	 Collisions 0 Time 68.202
+Seed  67 	 Episode  67 	 EpLen 500 	 CaptureRate 0.961 	 Collisions 0 Time 810.208
+Collision! ep_len, idx_predator, role, position: 384 452 searcher [15 36]
+Collision! ep_len, idx_predator, role, position: 385 452 searcher [14 36]
+Collision! ep_len, idx_predator, role, position: 386 452 searcher [14 37]
+Collision! ep_len, idx_predator, role, position: 387 452 searcher [14 36]
+Collision! ep_len, idx_predator, role, position: 388 452 searcher [14 37]
+Collision! ep_len, idx_predator, role, position: 389 452 searcher [13 37]
+Collision! ep_len, idx_predator, role, position: 390 452 searcher [13 36]
+Collision! ep_len, idx_predator, role, position: 391 452 searcher [14 36]
+Seed  68 	 Episode  68 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 8 Time 811.366
+Seed  69 	 Episode  69 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 822.882
+Seed  70 	 Episode  70 	 EpLen 500 	 CaptureRate 0.977 	 Collisions 0 Time 801.697
+Seed  71 	 Episode  71 	 EpLen 61 	 CaptureRate 1.000 	 Collisions 0 Time 116.270
+Seed  72 	 Episode  72 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 807.125
+Seed  73 	 Episode  73 	 EpLen 38 	 CaptureRate 1.000 	 Collisions 0 Time 81.815
+Seed  74 	 Episode  74 	 EpLen 63 	 CaptureRate 1.000 	 Collisions 0 Time 117.280
+Seed  75 	 Episode  75 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 800.213
+Seed  76 	 Episode  76 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 840.097
+Seed  77 	 Episode  77 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 804.201
+Seed  78 	 Episode  78 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 790.963
+Seed  79 	 Episode  79 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 802.617
+Seed  80 	 Episode  80 	 EpLen 84 	 CaptureRate 1.000 	 Collisions 0 Time 158.372
+Seed  81 	 Episode  81 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 777.379
+Seed  82 	 Episode  82 	 EpLen 417 	 CaptureRate 1.000 	 Collisions 0 Time 658.581
+Seed  83 	 Episode  83 	 EpLen 35 	 CaptureRate 1.000 	 Collisions 0 Time 77.670
+Seed  84 	 Episode  84 	 EpLen 194 	 CaptureRate 1.000 	 Collisions 0 Time 319.229
+Seed  85 	 Episode  85 	 EpLen 421 	 CaptureRate 1.000 	 Collisions 0 Time 689.176
+Seed  86 	 Episode  86 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 804.975
+Seed  87 	 Episode  87 	 EpLen 26 	 CaptureRate 1.000 	 Collisions 0 Time 64.819
+Seed  88 	 Episode  88 	 EpLen 132 	 CaptureRate 1.000 	 Collisions 0 Time 227.259
+Seed  89 	 Episode  89 	 EpLen 144 	 CaptureRate 1.000 	 Collisions 0 Time 238.823
+Seed  90 	 Episode  90 	 EpLen 43 	 CaptureRate 1.000 	 Collisions 0 Time 88.769
+Seed  91 	 Episode  91 	 EpLen 22 	 CaptureRate 1.000 	 Collisions 0 Time 54.934
+Seed  92 	 Episode  92 	 EpLen 26 	 CaptureRate 1.000 	 Collisions 0 Time 63.550
+Seed  93 	 Episode  93 	 EpLen 366 	 CaptureRate 1.000 	 Collisions 0 Time 574.251
+Seed  94 	 Episode  94 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 816.239
+Seed  95 	 Episode  95 	 EpLen 24 	 CaptureRate 1.000 	 Collisions 0 Time 57.360
+Seed  96 	 Episode  96 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 810.822
+Seed  97 	 Episode  97 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 773.105
+Seed  98 	 Episode  98 	 EpLen 44 	 CaptureRate 1.000 	 Collisions 0 Time 94.146
+Seed  99 	 Episode  99 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 816.916
+Write to file: data/sop_40_40_512_128_.txt
+Write to file: data/sop_40_40_512_128_statistical_result.txt
+Command: python run_sop.py  --x_size=40 --y_size=40 --n_pursuers=1024 --n_targets=256 --n_episodes=100
+Seed   0 	 Episode   0 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3520.359
+Seed   1 	 Episode   1 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3599.764
+Seed   2 	 Episode   2 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3532.171
+Seed   3 	 Episode   3 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3466.230
+Seed   4 	 Episode   4 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 3603.635
+Seed   5 	 Episode   5 	 EpLen 500 	 CaptureRate 0.988 	 Collisions 0 Time 3545.283
+Seed   6 	 Episode   6 	 EpLen 7 	 CaptureRate 1.000 	 Collisions 0 Time 67.323
+Seed   7 	 Episode   7 	 EpLen 10 	 CaptureRate 1.000 	 Collisions 0 Time 89.908
+Seed   8 	 Episode   8 	 EpLen 500 	 CaptureRate 0.980 	 Collisions 0 Time 3581.180
+Seed   9 	 Episode   9 	 EpLen 500 	 CaptureRate 0.980 	 Collisions 0 Time 3617.887
+Seed  10 	 Episode  10 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3673.237
+Seed  11 	 Episode  11 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3623.018
+Seed  12 	 Episode  12 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3531.465
+Seed  13 	 Episode  13 	 EpLen 500 	 CaptureRate 0.980 	 Collisions 0 Time 3906.139
+Seed  14 	 Episode  14 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3988.230
+Seed  15 	 Episode  15 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3841.040
+Seed  16 	 Episode  16 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3750.641
+Seed  17 	 Episode  17 	 EpLen 9 	 CaptureRate 1.000 	 Collisions 0 Time 89.868
+Seed  18 	 Episode  18 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3678.838
+Seed  19 	 Episode  19 	 EpLen 11 	 CaptureRate 1.000 	 Collisions 0 Time 95.186
+Seed  20 	 Episode  20 	 EpLen 10 	 CaptureRate 1.000 	 Collisions 0 Time 89.975
+Seed  21 	 Episode  21 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3555.340
+Seed  22 	 Episode  22 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3670.433
+Seed  23 	 Episode  23 	 EpLen 15 	 CaptureRate 1.000 	 Collisions 0 Time 129.476
+Seed  24 	 Episode  24 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3616.220
+Seed  25 	 Episode  25 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3534.420
+Seed  26 	 Episode  26 	 EpLen 11 	 CaptureRate 1.000 	 Collisions 0 Time 97.059
+Seed  27 	 Episode  27 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 3623.856
+Seed  28 	 Episode  28 	 EpLen 10 	 CaptureRate 1.000 	 Collisions 0 Time 92.233
+Seed  29 	 Episode  29 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3506.862
+Seed  30 	 Episode  30 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3555.268
+Seed  31 	 Episode  31 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3516.769
+Seed  32 	 Episode  32 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3628.476
+Seed  33 	 Episode  33 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3570.522
+Seed  34 	 Episode  34 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3570.628
+Seed  35 	 Episode  35 	 EpLen 500 	 CaptureRate 0.980 	 Collisions 0 Time 3637.217
+Seed  36 	 Episode  36 	 EpLen 500 	 CaptureRate 0.980 	 Collisions 0 Time 3566.529
+Seed  37 	 Episode  37 	 EpLen 22 	 CaptureRate 1.000 	 Collisions 0 Time 181.673
+Seed  38 	 Episode  38 	 EpLen 500 	 CaptureRate 0.988 	 Collisions 0 Time 3550.705
+Seed  39 	 Episode  39 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3550.150
+Seed  40 	 Episode  40 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3452.697
+Seed  41 	 Episode  41 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3602.374
+Seed  42 	 Episode  42 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3704.221
+Seed  43 	 Episode  43 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3641.094
+Seed  44 	 Episode  44 	 EpLen 500 	 CaptureRate 0.988 	 Collisions 0 Time 3661.001
+Seed  45 	 Episode  45 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3672.834
+Seed  46 	 Episode  46 	 EpLen 9 	 CaptureRate 1.000 	 Collisions 0 Time 84.467
+Seed  47 	 Episode  47 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3552.247
+Seed  48 	 Episode  48 	 EpLen 9 	 CaptureRate 1.000 	 Collisions 0 Time 83.246
+Seed  49 	 Episode  49 	 EpLen 11 	 CaptureRate 1.000 	 Collisions 0 Time 99.174
+Seed  50 	 Episode  50 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 3574.258
+Seed  51 	 Episode  51 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3613.420
+Seed  52 	 Episode  52 	 EpLen 10 	 CaptureRate 1.000 	 Collisions 0 Time 91.344
+Seed  53 	 Episode  53 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3577.219
+Seed  54 	 Episode  54 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 3634.652
+Seed  55 	 Episode  55 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3635.272
+Seed  56 	 Episode  56 	 EpLen 10 	 CaptureRate 1.000 	 Collisions 0 Time 89.237
+Seed  57 	 Episode  57 	 EpLen 8 	 CaptureRate 1.000 	 Collisions 0 Time 81.688
+Seed  58 	 Episode  58 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3623.403
+Seed  59 	 Episode  59 	 EpLen 500 	 CaptureRate 0.988 	 Collisions 0 Time 3705.247
+Seed  60 	 Episode  60 	 EpLen 500 	 CaptureRate 0.988 	 Collisions 0 Time 3695.091
+Seed  61 	 Episode  61 	 EpLen 5 	 CaptureRate 1.000 	 Collisions 0 Time 54.116
+Seed  62 	 Episode  62 	 EpLen 8 	 CaptureRate 1.000 	 Collisions 0 Time 76.719
+Seed  63 	 Episode  63 	 EpLen 7 	 CaptureRate 1.000 	 Collisions 0 Time 68.859
+Seed  64 	 Episode  64 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3536.809
+Seed  65 	 Episode  65 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3572.231
+Seed  66 	 Episode  66 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 3642.652
+Seed  67 	 Episode  67 	 EpLen 7 	 CaptureRate 1.000 	 Collisions 0 Time 68.554
+Seed  68 	 Episode  68 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3678.540
+Seed  69 	 Episode  69 	 EpLen 8 	 CaptureRate 1.000 	 Collisions 0 Time 72.488
+Seed  70 	 Episode  70 	 EpLen 500 	 CaptureRate 0.977 	 Collisions 0 Time 3584.834
+Seed  71 	 Episode  71 	 EpLen 8 	 CaptureRate 1.000 	 Collisions 0 Time 72.776
+Seed  72 	 Episode  72 	 EpLen 7 	 CaptureRate 1.000 	 Collisions 0 Time 71.331
+Seed  73 	 Episode  73 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3714.438
+Seed  74 	 Episode  74 	 EpLen 9 	 CaptureRate 1.000 	 Collisions 0 Time 85.186
+Seed  75 	 Episode  75 	 EpLen 6 	 CaptureRate 1.000 	 Collisions 0 Time 62.181
+Seed  76 	 Episode  76 	 EpLen 500 	 CaptureRate 0.973 	 Collisions 0 Time 3699.353
+Seed  77 	 Episode  77 	 EpLen 11 	 CaptureRate 1.000 	 Collisions 0 Time 107.595
+Seed  78 	 Episode  78 	 EpLen 500 	 CaptureRate 0.988 	 Collisions 0 Time 4101.955
+Seed  79 	 Episode  79 	 EpLen 11 	 CaptureRate 1.000 	 Collisions 0 Time 103.831
+Seed  80 	 Episode  80 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3653.378
+Seed  81 	 Episode  81 	 EpLen 500 	 CaptureRate 0.977 	 Collisions 0 Time 3893.235
+Seed  82 	 Episode  82 	 EpLen 8 	 CaptureRate 1.000 	 Collisions 0 Time 87.867
+Seed  83 	 Episode  83 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 4173.214
+Seed  84 	 Episode  84 	 EpLen 500 	 CaptureRate 0.984 	 Collisions 0 Time 4076.174
+Seed  85 	 Episode  85 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3956.581
+Seed  86 	 Episode  86 	 EpLen 7 	 CaptureRate 1.000 	 Collisions 0 Time 74.236
+Seed  87 	 Episode  87 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3896.831
+Seed  88 	 Episode  88 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3999.803
+Seed  89 	 Episode  89 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 4078.630
+Seed  90 	 Episode  90 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3618.825
+Seed  91 	 Episode  91 	 EpLen 500 	 CaptureRate 0.988 	 Collisions 0 Time 3514.905
+Seed  92 	 Episode  92 	 EpLen 500 	 CaptureRate 0.977 	 Collisions 0 Time 3741.855
+Seed  93 	 Episode  93 	 EpLen 500 	 CaptureRate 0.996 	 Collisions 0 Time 3532.226
+Seed  94 	 Episode  94 	 EpLen 500 	 CaptureRate 0.992 	 Collisions 0 Time 3643.799
+Seed  95 	 Episode  95 	 EpLen 10 	 CaptureRate 1.000 	 Collisions 0 Time 93.212
+Seed  96 	 Episode  96 	 EpLen 9 	 CaptureRate 1.000 	 Collisions 0 Time 83.077
+Seed  97 	 Episode  97 	 EpLen 16 	 CaptureRate 1.000 	 Collisions 0 Time 136.101
+Seed  98 	 Episode  98 	 EpLen 7 	 CaptureRate 1.000 	 Collisions 0 Time 69.966
+Seed  99 	 Episode  99 	 EpLen 12 	 CaptureRate 1.000 	 Collisions 0 Time 106.330
+Write to file: data/sop_40_40_1024_256_.txt
+Write to file: data/sop_40_40_1024_256_statistical_result.txt
+DONE!
+
+Process finished with exit code 0
+

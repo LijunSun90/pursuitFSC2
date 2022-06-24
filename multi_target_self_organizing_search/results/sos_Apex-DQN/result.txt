@@ -1,0 +1,10 @@
+Experiment ID: 0 Folder: ./results/sos_Apex-DQN/APEX_pursuit_a26cf_00000_0_2022-05-03_22-43-29
+Experiment ID: 1 Folder: ./results/sos_Apex-DQN/APEX_pursuit_b945a_00000_0_2022-05-07_16-55-47
+Experiment ID: 2 Folder: ./results/sos_Apex-DQN/APEX_pursuit_2af28_00000_0_2022-04-30_20-13-23
+Experiment ID: 3 Folder: ./results/sos_Apex-DQN/APEX_pursuit_82e74_00000_0_2022-05-06_17-16-56
+Experiment ID: 4 Folder: ./results/sos_Apex-DQN/APEX_pursuit_7d8eb_00000_0_2022-05-04_14-41-40
+Experiment ID: 5 Folder: ./results/sos_Apex-DQN/APEX_pursuit_a2145_00000_0_2022-05-03_22-43-29
+Experiment ID: 6 Folder: ./results/sos_Apex-DQN/APEX_pursuit_bfa91_00000_0_2022-05-05_14-49-29
+Experiment ID: 7 Folder: ./results/sos_Apex-DQN/APEX_pursuit_bfaed_00000_0_2022-05-05_14-49-29
+Experiment ID: 8 Folder: ./results/sos_Apex-DQN/APEX_pursuit_b9472_00000_0_2022-05-07_16-55-47
+Experiment ID: 9 Folder: ./results/sos_Apex-DQN/APEX_pursuit_04e06_00000_0_2022-04-30_20-12-19
