@@ -1,0 +1,2 @@
+NEpisodes	EpLenAvg	EpLenStd	EpLenMax	EpLenMin	CaptureRateAvg	CaptureRateStd	CaptureRateMax	CaptureRateMin	CollisionsAvg	CollisionsStd	CollisionsMax	CollisionsMin	Time(s)Avg	Time(s)Std	Time(s)Max	Time(s)Min
+100	115.09	83.22945332032404	500	35	0.99875	0.012437342963832749	1.0	0.875	0.0	0.0	0	0	5.1070163798332215	2.5650433621546105	22.332836866378784	2.4886999130249023
