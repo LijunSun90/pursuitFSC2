@@ -57,8 +57,11 @@ class MatrixAgent(metaclass=ABCMeta):
         self.memory = dict()
 
         # 1. Perceive.
+        # self.global_own_position, self.local_env_matrix = \
+            # self.env.perceive(idx_agent=self.idx_agent, is_prey=self.is_prey,
+            #                   remove_current_agent=True)
         self.global_own_position, self.local_env_matrix = \
-            self.env.perceive(idx_agent=self.idx_agent, is_prey=self.is_prey,
+            self.env.perceive(idx_agent=self.idx_agent, is_evader=self.is_prey,
                               remove_current_agent=True)
         self.offsets_from_local_positions_to_global_positions = \
             self.global_own_position - self.local_own_position
@@ -123,8 +126,11 @@ class MatrixAgent(metaclass=ABCMeta):
     def get_action(self):
 
         # 1. Perceive.
+        # self.global_own_position, self.local_env_matrix = \
+        #     self.env.perceive(idx_agent=self.idx_agent, is_prey=self.is_prey,
+        #                       remove_current_agent=True)
         self.global_own_position, self.local_env_matrix = \
-            self.env.perceive(idx_agent=self.idx_agent, is_prey=self.is_prey,
+            self.env.perceive(idx_agent=self.idx_agent, is_evader=self.is_prey,
                               remove_current_agent=True)
         self.offsets_from_local_positions_to_global_positions = \
             self.global_own_position - self.local_own_position
@@ -204,7 +210,8 @@ class MatrixAgent(metaclass=ABCMeta):
 
         # Get the action.
         # 1d numpy array with the shape(2,), np.array([delta_x, delta_y]).
-        direction = self.env.get_offsets(self.local_own_position, next_position)
+        # direction = self.env.get_offsets(self.local_own_position, next_position)
+        direction = next_position - self.local_own_position
         next_action = self.env.direction_action[tuple(direction)]
 
         return next_action
@@ -244,7 +251,8 @@ class MatrixAgent(metaclass=ABCMeta):
 
         # Get the action.
         # 1d numpy array with the shape(2,), np.array([delta_x, delta_y]).
-        direction = self.env.get_offsets(self.local_own_position, next_position)
+        # direction = self.env.get_offsets(self.local_own_position, next_position)
+        direction = next_position - self.local_own_position
         next_action = self.env.direction_action[tuple(direction)]
 
         return next_action
@@ -341,8 +349,9 @@ class MatrixAgent(metaclass=ABCMeta):
 
         # Get the action.
         # 1d numpy array with the shape(2,), np.array([delta_x, delta_y]).
-        direction = self.env.get_offsets(self.local_own_position,
-                                         next_position)
+        # direction = self.env.get_offsets(self.local_own_position,
+        #                                  next_position)
+        direction = next_position - self.local_own_position
         next_action = self.env.direction_action[tuple(direction)]
 
         return next_action
