@@ -1,5 +1,8 @@
 ## Fuzzy self-organizing cooperative coevolution (FSC2) for multi-target self-organizing pursuit
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=LijunSun90.pursuitFSC2)
+
+
 Official code for the paper "Toward multi-target self-organizing pursuit in a partially observable Markov game", which has been submitted to [Arxiv](https://arxiv.org/abs/2206.12330) and journal for peer-review.
 
 ![Alt Text](https://github.com/LijunSun90/pursuitFSC2/blob/main/multi_target_self_organizing_pursuit/data/case_study_40x40_4t_16p.gif)
